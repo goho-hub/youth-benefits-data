@@ -1,0 +1,180 @@
+﻿- 제목: 정읍 상동1차 영무예다음
+  설명: APT | 민영 | 총 386세대
+  지역: 전북
+  기관: 주식회사 와이엠개발
+  기간: 접수 2020-06-30 ~ 2020-07-02
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000691&pblancNo=2020000691
+- 제목: 힐스테이트 광산
+  설명: APT | 민영 | 총 428세대
+  지역: 광주
+  기관: (주)무궁화신탁
+  기간: 접수 2020-06-29 ~ 2020-07-01
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000638&pblancNo=2020000638
+- 제목: 음성금왕1단지
+  설명: APT | 국민 | 총 115세대
+  지역: 충북
+  기관: 주택관리공단 음성금왕1단지
+  기간: 접수 2020-06-23 ~ 2020-06-24
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000751&pblancNo=2020000751
+- 제목: 양주 옥정신도시 제일풍경채 Lake City(A10-1BL)
+  설명: APT | 민영 | 총 1246세대
+  지역: 경기
+  기관: 옥정제일1차피에프브이(주)
+  기간: 접수 2020-06-29 ~ 2020-07-01
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000744&pblancNo=2020000744
+- 제목: 서초비버리캐슬
+  설명: APT | 민영 | 총 42세대
+  지역: 서울
+  기관: 아시아신탁주식회사
+  기간: 접수 2020-06-29 ~ 2020-07-01
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000721&pblancNo=2020000721
+- 제목: 평택 고덕국제신도시 A-43블럭 호반써밋II
+  설명: APT | 민영 | 총 414세대
+  지역: 경기
+  기관: 군인공제회
+  기간: 접수 2020-06-30 ~ 2020-07-02
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000718&pblancNo=2020000718
+- 제목: 수원 센트럴 아이파크 자이
+  설명: APT | 민영 | 총 2165세대
+  지역: 경기
+  기관: 팔달10구역주택재개발정비사업조합
+  기간: 접수 2020-06-29 ~ 2020-07-02
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000712&pblancNo=2020000712
+- 제목: 감전엘크루센트로아파트
+  설명: APT | 민영 | 총 90세대
+  지역: 부산
+  기관: 주식회사 금천주택
+  기간: 접수 2020-06-30 ~ 2020-07-02
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000723&pblancNo=2020000723
+- 제목: 함평 한국아델리움 더퍼스트
+  설명: APT | 민영 | 총 163세대
+  지역: 전남
+  기관: (주)수성주택
+  기간: 접수 2020-06-22 ~ 2020-06-24
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000666&pblancNo=2020000666
+- 제목: 이안 동래 센트럴시티
+  설명: APT | 민영 | 총 257세대
+  지역: 부산
+  기관: (주)하나자산신탁
+  기간: 접수 2020-06-25 ~ 2020-06-29
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000553&pblancNo=2020000553
+- 제목: 청주 동남 파라곤
+  설명: APT | 민영 | 총 562세대
+  지역: 충북
+  기관: (주)동양개발산업
+  기간: 접수 2020-06-22 ~ 2020-06-24
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000720&pblancNo=2020000720
+- 제목: 인천 부평 우미린
+  설명: APT | 민영 | 총 177세대
+  지역: 인천
+  기관: 부평아파트주택재건축정비사업조합
+  기간: 접수 2020-06-22 ~ 2020-06-24
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000717&pblancNo=2020000717
+- 제목: 사송더샵데시앙2차(B-7BL)
+  설명: APT | 민영 | 총 993세대
+  지역: 경남
+  기관: (주)태영건설
+  기간: 접수 2020-06-22 ~ 2020-06-24
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000648&pblancNo=2020000648
+- 제목: 사송더샵데시앙2차(B-5BL)
+  설명: APT | 민영 | 총 477세대
+  지역: 경남
+  기관: (주)태영건설
+  기간: 접수 2020-06-22 ~ 2020-06-24
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000644&pblancNo=2020000644
+- 제목: 사송더샵데시앙2차(B-6BL)
+  설명: APT | 민영 | 총 614세대
+  지역: 경남
+  기관: (주)태영건설
+  기간: 접수 2020-06-22 ~ 2020-06-24
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000640&pblancNo=2020000640
+- 제목: 힐스테이트 레이크 송도 3차
+  설명: APT | 민영 | 총 1100세대
+  지역: 인천
+  기관: 송도랜드마크시티(유)
+  기간: 접수 2020-06-24 ~ 2020-06-26
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000719&pblancNo=2020000719
+- 제목: 래미안 엘리니티
+  설명: APT | 민영 | 총 475세대
+  지역: 서울
+  기관: 용두제6구역주택재개발정비사업조합
+  기간: 접수 2020-06-22 ~ 2020-06-25
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000698&pblancNo=2020000698
+- 제목: 백양산 롯데캐슬 골드센트럴
+  설명: APT | 민영 | 총 1442세대
+  지역: 부산
+  기관: 부암1구역재개발정비사업조합
+  기간: 접수 2020-06-22 ~ 2020-06-24
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000697&pblancNo=2020000697
+- 제목: LH가평읍내 50년공공임대주택 예비입주자 모집
+  설명: APT | 국민 | 총 90세대
+  지역: 경기
+  기관: 주공가평읍내관리소
+  기간: 접수 2020-06-23 ~ 2020-06-24
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000146&pblancNo=2020000146
+- 제목: 스위트드림 아파트
+  설명: APT | 민영 | 총 48세대
+  지역: 서울
+  기관: (주)스위트드림종합건설
+  기간: 접수 2020-06-22 ~ 2020-06-24
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000711&pblancNo=2020000711
+- 제목: 이안논현오션파크
+  설명: APT | 민영 | 총 294세대
+  지역: 인천
+  기관: (주)엠제이산업개발
+  기간: 접수 2020-06-23 ~ 2020-06-25
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000565&pblancNo=2020000565
+- 제목: 대관령 현대힐스 700
+  설명: APT | 민영 | 총 44세대
+  지역: 강원
+  기관: 주식회사 안스460
+  기간: 접수 2020-06-18 ~ 2020-06-19
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000708&pblancNo=2020000708
+- 제목: 서광교 파크 스위첸
+  설명: APT | 민영 | 총 374세대
+  지역: 경기
+  기관: 수원111의5구역주택재건축정비사업조합
+  기간: 접수 2020-06-18 ~ 2020-06-23
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000695&pblancNo=2020000695
+- 제목: 김포 센트럴 헤센 1단지
+  설명: APT | 민영 | 총 29세대
+  지역: 경기
+  기관: 김포감정동지역주택조합
+  기간: 접수 2020-06-18 ~ 2020-06-22
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000670&pblancNo=2020000670
+- 제목: 북청라 하우스토리
+  설명: APT | 민영 | 총 58세대
+  지역: 인천
+  기관: 경서지역주택조합
+  기간: 접수 2020-06-18 ~ 2020-06-19
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000616&pblancNo=2020000616
+- 제목: 한경크리스탈아파트
+  설명: APT | 민영 | 총 45세대
+  지역: 충남
+  기관: (주)한경
+  기간: 접수 2020-06-11 ~ 2020-06-12
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000707&pblancNo=2020000707
+- 제목: 아산탕정2-A7BL 국민임대
+  설명: APT | 국민 | 총 780세대
+  지역: 충남
+  기관: 한국토지주택공사대전충남
+  기간: 접수 2020-06-22 ~ 2020-06-24
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000706&pblancNo=2020000706
+- 제목: 진주가좌올리움
+  설명: APT | 국민 | 총 120세대
+  지역: 경남
+  기관: 경남개발공사
+  기간: 접수 2020-06-11 ~ 2020-06-26
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000705&pblancNo=2020000705
+- 제목: 설화명곡역 우방아이유쉘
+  설명: APT | 민영 | 총 320세대
+  지역: 대구
+  기관: 아시아신탁주식회사
+  기간: 접수 2020-06-15 ~ 2020-06-17
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000703&pblancNo=2020000703
+- 제목: 안성아양 B6 10년공공임대리츠 잔여세대 모집
+  설명: APT | 국민 | 총 101세대
+  지역: 경기
+  기관: 한국토지주택공사경기
+  기간: 접수 2020-06-06 ~ 2020-06-07
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000688&pblancNo=2020000688

@@ -1,0 +1,180 @@
+﻿- 제목: 화순3차 한국아델리움
+  설명: APT | 민영 | 총 135세대
+  지역: 전남
+  기관: 화순교리지역주택조합
+  기간: 접수 2022-04-04 ~ 2022-04-06
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000135&pblancNo=2022000135
+- 제목: 서울대입구역 더하이브 센트럴
+  설명: APT | 민영 | 총 35세대
+  지역: 서울
+  기관: 우리자산신탁 주식회사
+  기간: 접수 2022-04-04 ~ 2022-04-07
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000119&pblancNo=2022000119
+- 제목: 한화 포레나 미아
+  설명: APT | 민영 | 총 424세대
+  지역: 서울
+  기관: (주)무궁화신탁
+  기간: 접수 2022-04-04 ~ 2022-04-07
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000103&pblancNo=2022000103
+- 제목: 다대리슈빌
+  설명: APT | 민영 | 총 285세대
+  지역: 부산
+  기관: (주)무궁화신탁
+  기간: 접수 2022-04-04 ~ 2022-04-07
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000177&pblancNo=2022000177
+- 제목: 수서역세권 A3블록 신혼희망타운 잔여세대
+  설명: 신혼희망타운 | 국민 | 총 4세대
+  지역: 서울
+  기관: 한국토지주택공사 서울지역본부
+  기간: 접수 2022-03-29 ~ 2022-03-30
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022820009&pblancNo=2022820009
+- 제목: 서울양원 S2블록 신혼희망타운(공공분양) 잔여세대
+  설명: 신혼희망타운 | 국민 | 총 1세대
+  지역: 서울
+  기관: 한국토지주택공사 서울지역본부
+  기간: 접수 2022-03-29 ~ 2022-03-31
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022820008&pblancNo=2022820008
+- 제목: 오산세교2 A-13블록 호반써밋(사전청약)
+  설명: 민간사전청약 | 민영 | 총 927세대
+  지역: 경기
+  기관: (주)호반자산개발
+  기간: 접수 2022-03-28 ~ 2022-03-30
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022520011&pblancNo=2022520011
+- 제목: 오산 세교2지구 A20블록 힐데스하임(사전청약)
+  설명: 민간사전청약 | 민영 | 총 646세대
+  지역: 경기
+  기관: (주)원건설산업
+  기간: 접수 2022-03-28 ~ 2022-03-30
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022520010&pblancNo=2022520010
+- 제목: 삼호 비스타동원
+  설명: APT | 민영 | 총 108세대
+  지역: 울산
+  기관: 삼호주공아파트주택재건축정비사업조합
+  기간: 접수 2022-03-28 ~ 2022-03-31
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000141&pblancNo=2022000141
+- 제목: 시지 라온프라이빗
+  설명: APT | 민영 | 총 207세대
+  지역: 대구
+  기관: (주)한국토지신탁
+  기간: 접수 2022-03-28 ~ 2022-03-31
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000033&pblancNo=2022000033
+- 제목: 안양역 푸르지오 더샵
+  설명: APT | 민영 | 총 687세대
+  지역: 경기
+  기관: 안양1동진흥아파트주택재건축정비사업조합
+  기간: 접수 2022-03-28 ~ 2022-03-31
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000116&pblancNo=2022000116
+- 제목: 더 트루엘 포항
+  설명: APT | 민영 | 총 255세대
+  지역: 경북
+  기관: 우리자산신탁 주식회사
+  기간: 접수 2022-03-25 ~ 2022-03-29
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000127&pblancNo=2022000127
+- 제목: 휴안 더갤러리 오라
+  설명: APT | 민영 | 총 48세대
+  지역: 제주
+  기관: (주)무궁화신탁
+  기간: 접수 2022-03-24 ~ 2022-03-25
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000112&pblancNo=2022000112
+- 제목: 가야 봄여름가을겨울
+  설명: APT | 민영 | 총 90세대
+  지역: 부산
+  기관: 가야주택건설 주식회사
+  기간: 접수 2022-03-21 ~ 2022-03-24
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000124&pblancNo=2022000124
+- 제목: 가락마을7단지 중흥S-클래스 프라디움
+  설명: APT | 민영 | 총 56세대
+  지역: 세종
+  기관: (주)시티산업개발
+  기간: 접수 2022-03-21 ~ 2022-03-23
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000121&pblancNo=2022000121
+- 제목: 가락마을6단지 중흥S-클래스 프라디움
+  설명: APT | 민영 | 총 143세대
+  지역: 세종
+  기관: 주식회사 시티건설산업
+  기간: 접수 2022-03-21 ~ 2022-03-23
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000120&pblancNo=2022000120
+- 제목: 울산 베스티안
+  설명: APT | 민영 | 총 62세대
+  지역: 울산
+  기관: (주)무궁화신탁
+  기간: 접수 2022-03-21 ~ 2022-03-23
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000101&pblancNo=2022000101
+- 제목: 서광교 파크뷰
+  설명: APT | 민영 | 총 72세대
+  지역: 경기
+  기관: 교보자산신탁(주)
+  기간: 접수 2022-03-21 ~ 2022-03-24
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000063&pblancNo=2022000063
+- 제목: 시흥장현 A-9블록 신혼희망타운 공공분양(추가)
+  설명: 신혼희망타운 | 국민 | 총 43세대
+  지역: 경기
+  기관: 한국토지주택공사 인천지역본부
+  기간: 접수 2022-03-17 ~ 2022-03-18
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022820007&pblancNo=2022820007
+- 제목: 부천 원종 아이원시티
+  설명: APT | 민영 | 총 132세대
+  지역: 경기
+  기관: 도원주택건설
+  기간: 접수 2022-03-17 ~ 2022-03-22
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2021000939&pblancNo=2021000939
+- 제목: 서대전 한국아델리움
+  설명: APT | 민영 | 총 195세대
+  지역: 대전
+  기관: 우리자산신탁 주식회사
+  기간: 접수 2022-03-14 ~ 2022-03-17
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000093&pblancNo=2022000093
+- 제목: 당진 수청2지구 RH-3블록 호반써밋 시그니처 3차
+  설명: APT | 민영 | 총 853세대
+  지역: 충남
+  기관: (주)호반자산개발
+  기간: 접수 2022-03-14 ~ 2022-03-16
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000088&pblancNo=2022000088
+- 제목: 제주시 신일 해피트리 더 힐
+  설명: APT | 민영 | 총 92세대
+  지역: 제주
+  기관: 케이비부동산신탁(주)
+  기간: 접수 2022-03-14 ~ 2022-03-15
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000075&pblancNo=2022000075
+- 제목: 광주선운2 A-3블록 신혼희망타운(공공분양)
+  설명: 신혼희망타운 | 국민 | 총 249세대
+  지역: 광주
+  기관: 한국토지주택공사 광주전남지역본부
+  기간: 접수 2022-03-14 ~ 2022-03-16
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022820006&pblancNo=2022820006
+- 제목: 광주선운2 A-1블록 신혼희망타운(공공분양)
+  설명: 신혼희망타운 | 국민 | 총 492세대
+  지역: 광주
+  기관: 한국토지주택공사 광주전남지역본부
+  기간: 접수 2022-03-14 ~ 2022-03-16
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022820005&pblancNo=2022820005
+- 제목: 제일풍경채 의왕고천(사전청약)
+  설명: 민간사전청약 | 민영 | 총 810세대
+  지역: 경기
+  기관: 의왕고천피에프브이 주식회사
+  기간: 접수 2022-03-10 ~ 2022-03-15
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022520008&pblancNo=2022520008
+- 제목: 부산장안 디에트르(사전청약)
+  설명: 민간사전청약 | 민영 | 총 410세대
+  지역: 부산
+  기관: 대방주택 주식회사
+  기간: 접수 2022-03-14 ~ 2022-03-16
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022520007&pblancNo=2022520007
+- 제목: 울산다운2지구 B-2BL 우미린(사전청약)
+  설명: 민간사전청약 | 민영 | 총 1293세대
+  지역: 울산
+  기관: (주)우미개발
+  기간: 접수 2022-03-10 ~ 2022-03-14
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022520006&pblancNo=2022520006
+- 제목: 아산 탕정지구 2-A12BL 대광로제비앙(사전청약)
+  설명: 민간사전청약 | 민영 | 총 368세대
+  지역: 충남
+  기관: (주)디케이랜드
+  기간: 접수 2022-03-10 ~ 2022-03-14
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022520005&pblancNo=2022520005
+- 제목: 남청주 현도지구 B1블록 호반써밋(사전청약)
+  설명: 민간사전청약 | 민영 | 총 591세대
+  지역: 충북
+  기관: (주)호반건설
+  기간: 접수 2022-03-10 ~ 2022-03-14
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022520004&pblancNo=2022520004

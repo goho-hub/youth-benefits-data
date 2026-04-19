@@ -1,0 +1,180 @@
+﻿- 제목: 대봉교역 태왕아너스
+  설명: APT | 민영 | 총 289세대
+  지역: 대구
+  기관: 주식회사하나자산신탁
+  기간: 접수 2020-08-20 ~ 2020-08-24
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000863&pblancNo=2020000863
+- 제목: 더샵 번영센트로
+  설명: APT | 민영 | 총 311세대
+  지역: 울산
+  기관: 번영로 지역주택조합
+  기간: 접수 2020-08-20 ~ 2020-08-24
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000806&pblancNo=2020000806
+- 제목: 무등산 명지 로드힐
+  설명: APT | 민영 | 총 270세대
+  지역: 광주
+  기관: (유) 명지개발
+  기간: 접수 2020-08-19 ~ 2020-08-21
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000947&pblancNo=2020000947
+- 제목: e편한세상 지제역
+  설명: APT | 민영 | 총 1516세대
+  지역: 경기
+  기관: (주)하나자산신탁
+  기간: 접수 2020-08-18 ~ 2020-08-21
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000946&pblancNo=2020000946
+- 제목: 연제 SK VIEW Central
+  설명: APT | 민영 | 총 61세대
+  지역: 부산
+  기관: 연산지역 주택조합
+  기간: 접수 2020-08-19 ~ 2020-08-21
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000918&pblancNo=2020000918
+- 제목: DMC아트포레자이
+  설명: APT | 민영 | 총 307세대
+  지역: 서울
+  기관: 수색7재정비촉진구역주택재개발정비사업조합
+  기간: 접수 2020-08-13 ~ 2020-08-19
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000942&pblancNo=2020000942
+- 제목: DMC센트럴자이
+  설명: APT | 민영 | 총 463세대
+  지역: 서울
+  기관: 증산2재정비촉진구역주택재개발정비사업조합
+  기간: 접수 2020-08-13 ~ 2020-08-19
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000928&pblancNo=2020000928
+- 제목: DMC파인시티자이
+  설명: APT | 민영 | 총 453세대
+  지역: 서울
+  기관: 수색6재정비촉진구역주택재개발정비사업조합
+  기간: 접수 2020-08-13 ~ 2020-08-19
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000926&pblancNo=2020000926
+- 제목: 내포신도시 EG the1 2차 공동주택 신축사업
+  설명: APT | 민영 | 총 817세대
+  지역: 충남
+  기관: (주)라인앤프라임
+  기간: 접수 2020-08-18 ~ 2020-08-20
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000914&pblancNo=2020000914
+- 제목: DMC SK VIEW 아이파크포레
+  설명: APT | 민영 | 총 183세대
+  지역: 서울
+  기관: 수색13재정비촉진구역주택재개발정비사업조합
+  기간: 접수 2020-08-18 ~ 2020-08-21
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000899&pblancNo=2020000899
+- 제목: 대구오페라스위첸
+  설명: APT | 민영 | 총 854세대
+  지역: 대구
+  기관: (주)리건인베스트먼트피에프브이
+  기간: 접수 2020-08-18 ~ 2020-08-20
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000929&pblancNo=2020000929
+- 제목: 청라힐 지웰 더 센트로
+  설명: APT | 민영 | 총 159세대
+  지역: 대구
+  기관: 아시아신탁주식회사
+  기간: 접수 2020-08-11 ~ 2020-08-13
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000915&pblancNo=2020000915
+- 제목: 오션라이프 에일린의 뜰 2단지
+  설명: APT | 민영 | 총 434세대
+  지역: 부산
+  기관: 동삼2구역주택재개발정비사업조합
+  기간: 접수 2020-08-11 ~ 2020-08-13
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000912&pblancNo=2020000912
+- 제목: 오션라이프 에일린의 뜰 1단지
+  설명: APT | 민영 | 총 498세대
+  지역: 부산
+  기관: 동삼2구역주택재개발정비사업조합
+  기간: 접수 2020-08-11 ~ 2020-08-13
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000911&pblancNo=2020000911
+- 제목: 동대구역 화성파크드림
+  설명: APT | 민영 | 총 731세대
+  지역: 대구
+  기관: 신암4동뉴타운주택재건축정비사업조합
+  기간: 접수 2020-08-10 ~ 2020-08-12
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000910&pblancNo=2020000910
+- 제목: 해링턴 플레이스 감삼Ⅱ(2차)
+  설명: APT | 민영 | 총 200세대
+  지역: 대구
+  기관: (주)더푸른대구
+  기간: 접수 2020-08-10 ~ 2020-08-12
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000909&pblancNo=2020000909
+- 제목: 힐스테이트 천호역 젠트리스
+  설명: APT | 민영 | 총 160세대
+  지역: 서울
+  기관: (주)무궁화신탁
+  기간: 접수 2020-08-11 ~ 2020-08-13
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000901&pblancNo=2020000901
+- 제목: 서산 푸르지오 더 센트럴
+  설명: APT | 민영 | 총 861세대
+  지역: 충남
+  기관: (주)하나자산신탁
+  기간: 접수 2020-08-10 ~ 2020-08-12
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000869&pblancNo=2020000869
+- 제목: 천안 푸르지오 레이크사이드
+  설명: APT | 민영 | 총 1023세대
+  지역: 충남
+  기관: (주)하나자산신탁
+  기간: 접수 2020-08-10 ~ 2020-08-12
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000842&pblancNo=2020000842
+- 제목: 원주혁신도시 제일풍경채 센텀포레
+  설명: APT | 민영 | 총 1215세대
+  지역: 강원
+  기관: (주)세종화건설
+  기간: 접수 2020-08-10 ~ 2020-08-12
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000930&pblancNo=2020000930
+- 제목: 서대구역 서한이다음 더 퍼스트
+  설명: APT | 민영 | 총 597세대
+  지역: 대구
+  기관: 평리6재정비촉진구역 주택재개발정비사업조합
+  기간: 접수 2020-08-18 ~ 2020-08-20
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000925&pblancNo=2020000925
+- 제목: 광양 동문굿모닝힐 맘시티
+  설명: APT | 민영 | 총 1114세대
+  지역: 전남
+  기관: 동문건설(주)
+  기간: 접수 2020-08-10 ~ 2020-08-12
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000907&pblancNo=2020000907
+- 제목: 롯데캐슬 리버파크 시그니처(자양)
+  설명: APT | 민영 | 총 482세대
+  지역: 서울
+  기관: 자양1주택재건축정비사업조합
+  기간: 접수 2020-08-10 ~ 2020-08-13
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000886&pblancNo=2020000886
+- 제목: 빌리브 파크뷰
+  설명: APT | 민영 | 총 92세대
+  지역: 대구
+  기관: 코리아신탁(주)
+  기간: 접수 2020-08-11 ~ 2020-08-13
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000883&pblancNo=2020000883
+- 제목: e편한세상 비전 센터포레
+  설명: APT | 민영 | 총 583세대
+  지역: 경기
+  기관: 대림산업(주)
+  기간: 접수 2020-08-10 ~ 2020-08-13
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000867&pblancNo=2020000867
+- 제목: 속초 롯데캐슬 인더스카이
+  설명: APT | 민영 | 총 568세대
+  지역: 강원
+  기관: 시티글로벌(주)
+  기간: 접수 2020-08-12 ~ 2020-08-14
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000857&pblancNo=2020000857
+- 제목: 용마산 모아엘가 파크포레
+  설명: APT | 민영 | 총 159세대
+  지역: 서울
+  기관: 면목4주택재건축정비사업조합
+  기간: 접수 2020-08-11 ~ 2020-08-14
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000844&pblancNo=2020000844
+- 제목: 대치 푸르지오 써밋
+  설명: APT | 민영 | 총 106세대
+  지역: 서울
+  기관: 대치3동제1지구재건축정비사업조합
+  기간: 접수 2020-08-10 ~ 2020-08-12
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000749&pblancNo=2020000749
+- 제목: 경산 서희스타힐스
+  설명: APT | 민영 | 총 260세대
+  지역: 경북
+  기관: 경산서희지역주택조합
+  기간: 접수 2020-08-07 ~ 2020-08-11
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000878&pblancNo=2020000878
+- 제목: 강동 밀레니얼 중흥S-클래스
+  설명: APT | 민영 | 총 626세대
+  지역: 서울
+  기관: 천호1도시환경정비사업조합
+  기간: 접수 2020-08-10 ~ 2020-08-13
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000852&pblancNo=2020000852

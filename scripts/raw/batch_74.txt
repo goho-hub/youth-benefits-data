@@ -1,0 +1,180 @@
+﻿- 제목: 성남판교 산운마을9단지 대방노블랜드 아파트 우선 분양전환 후 잔여세대
+  설명: APT | 국민 | 총 3세대
+  지역: 경기
+  기관: 대방건설 주식회사
+  기간: 접수 2024-10-28 ~ 2024-10-29
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000592&pblancNo=2024000592
+- 제목: 수원 비셀토64
+  설명: APT | 민영 | 총 64세대
+  지역: 경기
+  기관: 코리아신탁(주)
+  기간: 접수 2024-10-21 ~ 2024-10-23
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000597&pblancNo=2024000597
+- 제목: 래미안 센트리폴(3BL)
+  설명: APT | 민영 | 총 1024세대
+  지역: 인천
+  기관: 삼성물산(주)
+  기간: 접수 2024-10-21 ~ 2024-10-23
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000594&pblancNo=2024000594
+- 제목: 잠실 래미안아이파크
+  설명: APT | 민영 | 총 589세대
+  지역: 서울
+  기관: 잠실진주아파트 주택재건축정비사업조합
+  기간: 접수 2024-10-21 ~ 2024-10-24
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000590&pblancNo=2024000590
+- 제목: 두산위브 더센트럴 부평
+  설명: APT | 민영 | 총 141세대
+  지역: 인천
+  기관: 삼산대보아파트구역주택재건축정비사업조합
+  기간: 접수 2024-10-21 ~ 2024-10-23
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000585&pblancNo=2024000585
+- 제목: 둔산 해링턴 플레이스 리버파크
+  설명: APT | 민영 | 총 336세대
+  지역: 대전
+  기관: 우리자산신탁 주식회사
+  기간: 접수 2024-10-21 ~ 2024-10-23
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000577&pblancNo=2024000577
+- 제목: 대전 르에브 스위첸 2단지
+  설명: APT | 민영 | 총 551세대
+  지역: 대전
+  기관: 대흥2구역주택재개발정비사업조합
+  기간: 접수 2024-10-21 ~ 2024-10-23
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000573&pblancNo=2024000573
+- 제목: 대전 르에브 스위첸 1단지
+  설명: APT | 민영 | 총 319세대
+  지역: 대전
+  기관: 대흥2구역주택재개발정비사업조합
+  기간: 접수 2024-10-21 ~ 2024-10-23
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000572&pblancNo=2024000572
+- 제목: 센텀파크 SK VIEW
+  설명: APT | 민영 | 총 309세대
+  지역: 부산
+  기관: 우리자산신탁 주식회사
+  기간: 접수 2024-10-21 ~ 2024-10-23
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000571&pblancNo=2024000571
+- 제목: 청평 수자인 더퍼스트
+  설명: APT | 민영 | 총 551세대
+  지역: 경기
+  기관: 대한토지신탁주식회사
+  기간: 접수 2024-10-21 ~ 2024-10-23
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000557&pblancNo=2024000557
+- 제목: 힐스테이트 오산더클래스
+  설명: APT | 민영 | 총 970세대
+  지역: 경기
+  기관: 신영부동산신탁 주식회사
+  기간: 접수 2024-10-21 ~ 2024-10-23
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000361&pblancNo=2024000361
+- 제목: 무거 비스타동원
+  설명: APT | 민영 | 총 481세대
+  지역: 울산
+  기관: (주)동원개발,(주)세명종합개발
+  기간: 접수 2024-10-21 ~ 2024-10-23
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000215&pblancNo=2024000215
+- 제목: 직산역 서희스타힐스(조합원 취소분)
+  설명: APT | 민영 | 총 3세대
+  지역: 충남
+  기관: 천안첨단지역주택조합
+  기간: 접수 2024-10-17 ~ 2024-10-18
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000589&pblancNo=2024000589
+- 제목: 파주운정3 지구 A20블록 공공분양주택(본청약)
+  설명: APT | 국민 | 총 612세대
+  지역: 경기
+  기관: 한국토지주택공사 경기북부지역본부
+  기간: 접수 2024-10-15 ~ 2024-10-18
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000582&pblancNo=2024000582
+- 제목: 자라섬 수자인 리버페스타
+  설명: APT | 민영 | 총 381세대
+  지역: 경기
+  기관: (주)한국토지신탁
+  기간: 접수 2024-10-14 ~ 2024-10-16
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000580&pblancNo=2024000580
+- 제목: 하당 르파르크 시그니처
+  설명: APT | 민영 | 총 70세대
+  지역: 전남
+  기관: 주식회사 케이유건설
+  기간: 접수 2024-10-14 ~ 2024-10-16
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000562&pblancNo=2024000562
+- 제목: 동작구수방사 공공분양주택(본청약)
+  설명: APT | 국민 | 총 263세대
+  지역: 서울
+  기관: 한국토지주택공사 서울지역본부
+  기간: 접수 2024-10-14 ~ 2024-10-15
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000586&pblancNo=2024000586
+- 제목: 이천 서희스타힐스 SKY (조합원 취소분)
+  설명: APT | 민영 | 총 48세대
+  지역: 경기
+  기관: 안흥동 지역주택조합
+  기간: 접수 2024-10-10 ~ 2024-10-14
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000574&pblancNo=2024000574
+- 제목: 인천계양지구 A-2블록 공공분양주택(본청약)
+  설명: APT | 국민 | 총 747세대
+  지역: 인천
+  기관: 한국토지주택공사 인천지역본부
+  기간: 접수 2024-10-15 ~ 2024-10-18
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000570&pblancNo=2024000570
+- 제목: 공도 서희스타힐스(조합원 자격상실 세대)
+  설명: APT | 민영 | 총 5세대
+  지역: 경기
+  기관: 공도스타허브지역주택조합
+  기간: 접수 2024-10-10 ~ 2024-10-11
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000559&pblancNo=2024000559
+- 제목: 부천아테라자이(부천괴안지구 B-2블록)
+  설명: APT | 민영 | 총 200세대
+  지역: 경기
+  기관: (주)인천검단부천괴안주택위탁관리부동산투자회사
+  기간: 접수 2024-10-07 ~ 2024-10-10
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000566&pblancNo=2024000566
+- 제목: 대구 태전역 광신프로그레스(조합원 취소분)
+  설명: APT | 민영 | 총 26세대
+  지역: 대구
+  기관: 태전동 지역주택조합
+  기간: 접수 2024-10-07 ~ 2024-10-08
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000558&pblancNo=2024000558
+- 제목: 사하 경남아너스빌 시그니처
+  설명: APT | 민영 | 총 380세대
+  지역: 부산
+  기관: (주)티케이케미칼
+  기간: 접수 2024-10-07 ~ 2024-10-10
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000552&pblancNo=2024000552
+- 제목: 마포 에피트 어바닉
+  설명: APT | 민영 | 총 163세대
+  지역: 서울
+  기관: 코리아신탁(주)
+  기간: 접수 2024-10-07 ~ 2024-10-10
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000534&pblancNo=2024000534
+- 제목: 시티오씨엘 6단지
+  설명: APT | 민영 | 총 1734세대
+  지역: 인천
+  기관: 신한자산신탁 주식회사
+  기간: 접수 2024-10-07 ~ 2024-10-10
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000507&pblancNo=2024000507
+- 제목: 프레스티어자이
+  설명: APT | 민영 | 총 287세대
+  지역: 경기
+  기관: 과천주공4단지주택재건축정비사업조합
+  기간: 접수 2024-10-07 ~ 2024-10-10
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000502&pblancNo=2024000502
+- 제목: 하우스토리 센트럴포레
+  설명: APT | 민영 | 총 40세대
+  지역: 서울
+  기관: (주)무궁화신탁
+  기간: 접수 2024-10-07 ~ 2024-10-10
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000333&pblancNo=2024000333
+- 제목: 광안센텀 비스타동원
+  설명: APT | 민영 | 총 208세대
+  지역: 부산
+  기관: 광안지역주택조합
+  기간: 접수 2024-10-07 ~ 2024-10-10
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000551&pblancNo=2024000551
+- 제목: 디에이치 대치 에델루이
+  설명: APT | 민영 | 총 72세대
+  지역: 서울
+  기관: 대치동구마을제3지구주택재건축정비사업조합
+  기간: 접수 2024-10-08 ~ 2024-10-14
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000547&pblancNo=2024000547
+- 제목: e편한세상 명덕역 퍼스트마크
+  설명: APT | 민영 | 총 1112세대
+  지역: 대구
+  기관: 대명2동명덕지구주택재개발정비사업조합
+  기간: 접수 2024-10-07 ~ 2024-10-10
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000473&pblancNo=2024000473

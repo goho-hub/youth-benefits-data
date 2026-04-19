@@ -1,0 +1,180 @@
+﻿- 제목: 문산당동1단지 50년공공임대주택 입주자모집
+  설명: APT | 국민 | 총 567세대
+  지역: 경기
+  기관: 주택관리공단(주) 문산당동1관리소
+  기간: 접수 2020-06-09 ~ 2020-06-10
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000656&pblancNo=2020000656
+- 제목: 2020년 제1차 국민임대주택 입주자모집
+  설명: APT | 국민 | 총 2519세대
+  지역: 서울
+  기관: 서울주택도시공사
+  기간: 접수 2020-06-08 ~ 2020-06-17
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000653&pblancNo=2020000653
+- 제목: 르엘 신반포 파크애비뉴
+  설명: APT | 민영 | 총 98세대
+  지역: 서울
+  기관: 신반포13차아파트주택재건축정비사업조합
+  기간: 접수 2020-06-08 ~ 2020-06-10
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000651&pblancNo=2020000651
+- 제목: 광양센트럴자이
+  설명: APT | 민영 | 총 704세대
+  지역: 전남
+  기관: 우리자산신탁 주식회사
+  기간: 접수 2020-06-10 ~ 2020-06-12
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000636&pblancNo=2020000636
+- 제목: 더샵 광주포레스트
+  설명: APT | 민영 | 총 907세대
+  지역: 광주
+  기관: (주)무궁화신탁
+  기간: 접수 2020-06-10 ~ 2020-06-12
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000612&pblancNo=2020000612
+- 제목: 포천 모아엘가 리더스파크
+  설명: APT | 민영 | 총 245세대
+  지역: 경기
+  기관: 포천제1지역주택조합
+  기간: 접수 2020-06-09 ~ 2020-06-11
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000592&pblancNo=2020000592
+- 제목: 서울 강남5, 서초3 장기전세
+  설명: APT | 국민 | 총 195세대
+  지역: 서울
+  기관: 한국토지주택공사서울
+  기간: 접수 2020-06-03 ~ 2020-06-04
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000661&pblancNo=2020000661
+- 제목: 검암역 로열파크씨티 푸르지오 2단지
+  설명: APT | 민영 | 총 2426세대
+  지역: 인천
+  기관: (주)하나자산신탁
+  기간: 접수 2020-06-08 ~ 2020-06-10
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000634&pblancNo=2020000634
+- 제목: 검암역 로열파크씨티 푸르지오 1단지
+  설명: APT | 민영 | 총 2379세대
+  지역: 인천
+  기관: (주)하나자산신탁
+  기간: 접수 2020-06-08 ~ 2020-06-10
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000633&pblancNo=2020000633
+- 제목: 광주동림2단지
+  설명: APT | 국민 | 총 100세대
+  지역: 광주
+  기관: 주택관리공단(주) 광주동림2관리소
+  기간: 접수 2020-06-04 ~ 2020-06-05
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000597&pblancNo=2020000597
+- 제목: 충장 로머스파크 헤리티지 주상복합 아파트
+  설명: APT | 민영 | 총 184세대
+  지역: 광주
+  기관: 한국투자부동산신탁주식회사
+  기간: 접수 2020-06-05 ~ 2020-06-09
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000404&pblancNo=2020000404
+- 제목: 영동내지브로아파트
+  설명: APT | 민영 | 총 32세대
+  지역: 충북
+  기관: 이원종합건설(주)
+  기간: 접수 2020-06-04 ~ 2020-06-08
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000630&pblancNo=2020000630
+- 제목: 평택소사벌 A-5BL 국민임대주택
+  설명: APT | 국민 | 총 512세대
+  지역: 경기
+  기관: 한국토지주택공사경기지역본부
+  기간: 접수 2020-06-08 ~ 2020-06-17
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000629&pblancNo=2020000629
+- 제목: 춘천우두3 국민임대
+  설명: APT | 국민 | 총 240세대
+  지역: 강원
+  기관: 한국토지주택공사강원
+  기간: 접수 2020-06-08 ~ 2020-06-16
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000622&pblancNo=2020000622
+- 제목: 청주동남A1BL 국민임대
+  설명: APT | 국민 | 총 1116세대
+  지역: 충북
+  기관: 한국토지주택공사충북
+  기간: 접수 2020-06-08 ~ 2020-06-15
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000613&pblancNo=2020000613
+- 제목: 수원고등 A-1블록 5년 분양전환공공임대주택
+  설명: APT | 국민 | 총 56세대
+  지역: 경기
+  기관: 한국토지주택공사
+  기간: 접수 2020-06-03 ~ 2020-06-05
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000620&pblancNo=2020000620
+- 제목: 화서역 푸르지오 브리시엘
+  설명: APT | 민영 | 총 665세대
+  지역: 경기
+  기관: 케이티앤지
+  기간: 접수 2020-06-01 ~ 2020-06-04
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000618&pblancNo=2020000618
+- 제목: 남부민풀리페 국민임대아파트
+  설명: APT | 국민 | 총 114세대
+  지역: 부산
+  기관: 부산도시공사
+  기간: 접수 2020-06-01 ~ 2020-06-05
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000610&pblancNo=2020000610
+- 제목: 상도역 롯데캐슬
+  설명: APT | 민영 | 총 474세대
+  지역: 서울
+  기관: 태려건설산업(주)
+  기간: 접수 2020-06-15 ~ 2020-06-17
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000608&pblancNo=2020000608
+- 제목: 대전 둔곡지구 A3BL 우미린
+  설명: APT | 민영 | 총 760세대
+  지역: 대전
+  기관: (주)명선종합건설
+  기간: 접수 2020-06-01 ~ 2020-06-03
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000595&pblancNo=2020000595
+- 제목: 남천 우성스마트시티뷰
+  설명: APT | 민영 | 총 97세대
+  지역: 부산
+  기관: (주)우성종합건설
+  기간: 접수 2020-06-01 ~ 2020-06-03
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000585&pblancNo=2020000585
+- 제목: 대구용산자이
+  설명: APT | 민영 | 총 429세대
+  지역: 대구
+  기관: (주)브리티시자산관리
+  기간: 접수 2020-06-02 ~ 2020-06-04
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000576&pblancNo=2020000576
+- 제목: 양주 옥정신도시 A-17(1)블록 대성베르힐
+  설명: APT | 민영 | 총 804세대
+  지역: 경기
+  기관: (주)양주옥정피에프브이
+  기간: 접수 2020-06-01 ~ 2020-06-03
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000555&pblancNo=2020000555
+- 제목: 더샵 송도센터니얼
+  설명: APT | 민영 | 총 342세대
+  지역: 인천
+  기관: 아시아신탁(주)
+  기간: 접수 2020-06-03 ~ 2020-06-05
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000611&pblancNo=2020000611
+- 제목: 동대구 해모로 스퀘어 이스트
+  설명: APT | 민영 | 총 705세대
+  지역: 대구
+  기관: 신암5동 동자02지구 주택재개발정비사업조합
+  기간: 접수 2020-06-02 ~ 2020-06-04
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000607&pblancNo=2020000607
+- 제목: 군산신역세권A-2블록 국민임대
+  설명: APT | 국민 | 총 340세대
+  지역: 전북
+  기관: 한국토지주택공사전북
+  기간: 접수 2020-06-03 ~ 2020-06-05
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000604&pblancNo=2020000604
+- 제목: 하남감일 한양수자인
+  설명: APT | 민영 | 총 512세대
+  지역: 경기
+  기관: 보문개발(주)
+  기간: 접수 2020-06-02 ~ 2020-06-04
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000600&pblancNo=2020000600
+- 제목: 영주가흥1단지
+  설명: APT | 국민 | 총 296세대
+  지역: 경북
+  기관: 주택관리공단(주) 영주가흥1관리소
+  기간: 접수 2020-06-04 ~ 2020-06-05
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000596&pblancNo=2020000596
+- 제목: 대구명곡2단지 50년공공임대
+  설명: APT | 국민 | 총 1032세대
+  지역: 대구
+  기관: 주택관리공단(주) 대구명곡2관리소
+  기간: 접수 2020-06-04 ~ 2020-06-05
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000593&pblancNo=2020000593
+- 제목: 다사역 금호어울림 센트럴
+  설명: APT | 민영 | 총 869세대
+  지역: 대구
+  기관: 금호산업(주)
+  기간: 접수 2020-06-01 ~ 2020-06-03
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000590&pblancNo=2020000590

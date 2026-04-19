@@ -1,0 +1,180 @@
+﻿- 제목: 화성봉담2 A-6블록 행복주택
+  설명: APT | 국민 | 총 180세대
+  지역: 경기
+  기관: 한국토지주택공사경기
+  기간: 접수 2020-05-08 ~ 2020-05-12
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000467&pblancNo=2020000467
+- 제목: 화성향남(2) A-20블록 행복주택
+  설명: APT | 국민 | 총 27세대
+  지역: 경기
+  기관: 한국토지주택공사경기
+  기간: 접수 2020-05-08 ~ 2020-05-12
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000466&pblancNo=2020000466
+- 제목: 화성동탄(2) A-82블록 행복주택
+  설명: APT | 국민 | 총 235세대
+  지역: 경기
+  기관: 한국토지주택공사경기
+  기간: 접수 2020-05-08 ~ 2020-05-12
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000465&pblancNo=2020000465
+- 제목: 화성동탄(2) C-26블록 행복주택
+  설명: APT | 국민 | 총 310세대
+  지역: 경기
+  기관: 한국토지주택공사경기
+  기간: 접수 2020-05-08 ~ 2020-05-12
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000462&pblancNo=2020000462
+- 제목: 봉화해저 1블록 행복주택
+  설명: APT | 국민 | 총 90세대
+  지역: 경북
+  기관: 한국토지주택공사대구경북
+  기간: 접수 2020-05-14 ~ 2020-05-21
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000524&pblancNo=2020000524
+- 제목: 대전상서 행복주택
+  설명: APT | 국민 | 총 296세대
+  지역: 대전
+  기관: 한국토지주택공사대전충남
+  기간: 접수 2020-05-08 ~ 2020-05-29
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000522&pblancNo=2020000522
+- 제목: 구리수택 행복주택 입주자 모집
+  설명: APT | 국민 | 총 394세대
+  지역: 경기
+  기관: 한국토지주택공사서울
+  기간: 접수 2020-05-07 ~ 2020-05-18
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000508&pblancNo=2020000508
+- 제목: 부산모라 행복주택
+  설명: APT | 국민 | 총 390세대
+  지역: 부산
+  기관: 한국토지주택공사부산울산
+  기간: 접수 2020-05-07 ~ 2020-05-18
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000498&pblancNo=2020000498
+- 제목: 파주운정3 A25BL 행복주택
+  설명: APT | 국민 | 총 1000세대
+  지역: 경기
+  기관: 한국토지주택공사인천
+  기간: 접수 2020-05-07 ~ 2020-05-18
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000492&pblancNo=2020000492
+- 제목: 김포마송 B-5블록 행복주택
+  설명: APT | 국민 | 총 500세대
+  지역: 경기
+  기관: 한국토지주택공사인천지역본부
+  기간: 접수 2020-05-07 ~ 2020-05-18
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000487&pblancNo=2020000487
+- 제목: 원주태장 LH 천년나무6단지 국민임대주택
+  설명: APT | 국민 | 총 300세대
+  지역: 강원
+  기관: 한국토지주택공사강원
+  기간: 접수 2020-05-11 ~ 2020-05-22
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000486&pblancNo=2020000486
+- 제목: 의정부 롯데캐슬 골드포레
+  설명: APT | 민영 | 총 326세대
+  지역: 경기
+  기관: 롯데건설(주)
+  기간: 접수 2020-05-06 ~ 2020-05-08
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000484&pblancNo=2020000484
+- 제목: 고양덕은 DMC리버포레자이(A7BL)
+  설명: APT | 민영 | 총 318세대
+  지역: 경기
+  기관: 화이트코리아산업(주)
+  기간: 접수 2020-05-04 ~ 2020-05-08
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000482&pblancNo=2020000482
+- 제목: 가양동 고운하이플러스
+  설명: APT | 민영 | 총 118세대
+  지역: 대전
+  기관: 신도아파트주택재건축정비사업조합
+  기간: 접수 2020-05-04 ~ 2020-05-07
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000471&pblancNo=2020000471
+- 제목: 계룡 푸르지오 더 퍼스트
+  설명: APT | 민영 | 총 883세대
+  지역: 충남
+  기관: 우리자산신탁주식회사
+  기간: 접수 2020-05-04 ~ 2020-05-07
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000469&pblancNo=2020000469
+- 제목: 고양덕은 DMC리버파크자이(A4BL)
+  설명: APT | 민영 | 총 692세대
+  지역: 경기
+  기관: 화이트코리아(주)
+  기간: 접수 2020-05-04 ~ 2020-05-08
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000468&pblancNo=2020000468
+- 제목: 의정부역 진산엔월드메르디앙
+  설명: APT | 민영 | 총 79세대
+  지역: 경기
+  기관: 신영부동산신탁 주식회사
+  기간: 접수 2020-05-04 ~ 2020-05-06
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000446&pblancNo=2020000446
+- 제목: 힐스테이트 동인센트럴
+  설명: APT | 민영 | 총 410세대
+  지역: 대구
+  기관: 주식회사 하나자산신탁
+  기간: 접수 2020-05-06 ~ 2020-05-08
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000434&pblancNo=2020000434
+- 제목: 목포 수창해뜨레 아파트
+  설명: APT | 국민 | 총 82세대
+  지역: 전남
+  기관: 수창건설(주)
+  기간: 접수 2020-05-06 ~ 2020-05-08
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000427&pblancNo=2020000427
+- 제목: 동래효산벨뷰
+  설명: APT | 민영 | 총 70세대
+  지역: 부산
+  기관: 주식회사 효산건설
+  기간: 접수 2020-05-04 ~ 2020-05-06
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000412&pblancNo=2020000412
+- 제목: 함평 백년가
+  설명: APT | 민영 | 총 96세대
+  지역: 전남
+  기관: 애가건설
+  기간: 접수 2020-04-28 ~ 2020-04-29
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000463&pblancNo=2020000463
+- 제목: 화천신아 국민임대주택 예비입주자 모집
+  설명: APT | 국민 | 총 20세대
+  지역: 강원
+  기관: 한국토지주택공사강원
+  기간: 접수 2020-05-06 ~ 2020-05-07
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000458&pblancNo=2020000458
+- 제목: 철원동송 국민임대주택 예비입주자 모집
+  설명: APT | 국민 | 총 60세대
+  지역: 강원
+  기관: 한국토지주택공사강원
+  기간: 접수 2020-05-06 ~ 2020-05-07
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000457&pblancNo=2020000457
+- 제목: 하남미사 C3BL 행복주택
+  설명: APT | 국민 | 총 340세대
+  지역: 경기
+  기관: 한국토지주택공사서울
+  기간: 접수 2020-04-29 ~ 2020-05-04
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000472&pblancNo=2020000472
+- 제목: 화성동탄2 A4-1블록 행복주택 추가모집
+  설명: APT | 국민 | 총 1313세대
+  지역: 경기
+  기관: 한국토지주택공사경기
+  기간: 접수 2020-05-11 ~ 2020-05-18
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000460&pblancNo=2020000460
+- 제목: 화성동탄(2) A-50,69,65BL 10년 공임(예비)
+  설명: APT | 국민 | 총 1099세대
+  지역: 경기
+  기관: 한국토지주택공사경기
+  기간: 접수 2020-05-04 ~ 2020-05-06
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000451&pblancNo=2020000451
+- 제목: 부산당감1단지 (50년공임) 예비
+  설명: APT | 국민 | 총 120세대
+  지역: 부산
+  기관: 주택관리공단 당감1
+  기간: 접수 2020-05-06 ~ 2020-05-07
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000186&pblancNo=2020000186
+- 제목: 부산강서 행복주택 추가모집
+  설명: APT | 국민 | 총 12세대
+  지역: 부산
+  기관: 한국토지주택공사부산울산
+  기간: 접수 2020-05-04 ~ 2020-05-08
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000459&pblancNo=2020000459
+- 제목: 파주운정 A5BL
+  설명: APT | 국민 | 총 20세대
+  지역: 경기
+  기관: 한국토지주택공사인천
+  기간: 접수 2020-04-23 ~ 2020-04-24
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000456&pblancNo=2020000456
+- 제목: 파주운정 A17BL
+  설명: APT | 국민 | 총 10세대
+  지역: 경기
+  기관: 한국토지주택공사인천
+  기간: 접수 2020-04-23 ~ 2020-04-24
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020000455&pblancNo=2020000455

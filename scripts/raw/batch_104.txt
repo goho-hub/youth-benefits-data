@@ -1,0 +1,180 @@
+﻿- 제목: 트리마제 순천 1단지
+  설명: APT | 민영 | 총 1172세대
+  지역: 전남
+  기관: (주)한국토지신탁
+  기간: 접수 2022-05-30 ~ 2022-06-07
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000295&pblancNo=2022000295
+- 제목: e편한세상 옥정 리더스가든
+  설명: APT | 민영 | 총 938세대
+  지역: 경기
+  기관: 디엘이앤씨 주식회사
+  기간: 접수 2022-05-30 ~ 2022-06-02
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000251&pblancNo=2022000251
+- 제목: 힐스테이트 환호공원 2블록
+  설명: APT | 민영 | 총 1404세대
+  지역: 경북
+  기관: 주식회사 아키션
+  기간: 접수 2022-05-30 ~ 2022-06-02
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000238&pblancNo=2022000238
+- 제목: 힐스테이트 환호공원 1블록
+  설명: APT | 민영 | 총 1590세대
+  지역: 경북
+  기관: 주식회사 아키션
+  기간: 접수 2022-05-30 ~ 2022-06-02
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000237&pblancNo=2022000237
+- 제목: 평촌 어바인퍼스트 더샵
+  설명: APT | 민영 | 총 164세대
+  지역: 경기
+  기관: 호원초등학교주변지구 주택재개발정비사업조합
+  기간: 접수 2022-05-30 ~ 2022-06-03
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000299&pblancNo=2022000299
+- 제목: 평택고덕 A-3블록 신혼희망타운(공공분양) 추가
+  설명: 신혼희망타운 | 국민 | 총 1세대
+  지역: 경기
+  기관: 한국토지주택공사 경기지역본부
+  기간: 접수 2022-05-24 ~ 2022-05-25
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022820019&pblancNo=2022820019
+- 제목: 광주선운2 A-3블록 신혼희망타운
+  설명: 신혼희망타운 | 국민 | 총 58세대
+  지역: 광주
+  기관: 한국토지주택공사 광주전남지역본부
+  기간: 접수 2022-05-23 ~ 2022-05-24
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022820018&pblancNo=2022820018
+- 제목: 광주선운2 A-1블록 신혼희망타운
+  설명: 신혼희망타운 | 국민 | 총 162세대
+  지역: 광주
+  기관: 한국토지주택공사 광주전남지역본부
+  기간: 접수 2022-05-23 ~ 2022-05-24
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022820017&pblancNo=2022820017
+- 제목: 고양장항 A-5블록 신혼희망타운(공공분양) 추가
+  설명: 신혼희망타운 | 국민 | 총 1세대
+  지역: 경기
+  기관: 한국토지주택공사 인천지역본부
+  기간: 접수 2022-05-26 ~ 2022-05-27
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022820016&pblancNo=2022820016
+- 제목: 고양장항 A-4블록 신혼희망타운(공공분양) 추가입주자모집공고
+  설명: 신혼희망타운 | 국민 | 총 4세대
+  지역: 경기
+  기관: 한국토지주택공사 인천지역본부
+  기간: 접수 2022-05-26 ~ 2022-05-27
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022820015&pblancNo=2022820015
+- 제목: 고양지축 A-2블록 신혼희망타운(공공분양) 추가입주자모집공고
+  설명: 신혼희망타운 | 국민 | 총 2세대
+  지역: 경기
+  기관: 한국토지주택공사 인천지역본부
+  기간: 접수 2022-05-26 ~ 2022-05-27
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022820014&pblancNo=2022820014
+- 제목: 더샵 지제역 센트럴파크 1BL
+  설명: APT | 민영 | 총 9세대
+  지역: 경기
+  기관: 지제센토피아지역주택조합
+  기간: 접수 2022-05-26 ~ 2022-05-30
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000257&pblancNo=2022000257
+- 제목: 수성포레스트스위첸
+  설명: APT | 민영 | 총 755세대
+  지역: 대구
+  기관: 아시아신탁주식회사
+  기간: 접수 2022-05-23 ~ 2022-05-26
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000287&pblancNo=2022000287
+- 제목: 이안 모란 센트럴파크
+  설명: APT | 민영 | 총 74세대
+  지역: 경기
+  기관: 케이비부동산신탁주식회사
+  기간: 접수 2022-05-23 ~ 2022-05-26
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000286&pblancNo=2022000286
+- 제목: 구서 남평 N-CITY
+  설명: APT | 민영 | 총 57세대
+  지역: 부산
+  기관: 대한토지신탁(주)
+  기간: 접수 2022-05-23 ~ 2022-05-26
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000253&pblancNo=2022000253
+- 제목: 평택청북 세종 헤르메스
+  설명: APT | 민영 | 총 280세대
+  지역: 경기
+  기관: 주식회사 세종건설
+  기간: 접수 2022-05-23 ~ 2022-05-25
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000242&pblancNo=2022000242
+- 제목: 주안 센트럴 파라곤
+  설명: APT | 민영 | 총 767세대
+  지역: 인천
+  기관: 미추1구역주택재개발정비사업조합
+  기간: 접수 2022-05-23 ~ 2022-05-26
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000222&pblancNo=2022000222
+- 제목: 창동 다우아트리체 주상복합 아파트
+  설명: APT | 민영 | 총 89세대
+  지역: 서울
+  기관: 주식회사 하나자산신탁
+  기간: 접수 2022-05-23 ~ 2022-05-26
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000248&pblancNo=2022000248
+- 제목: 금남로 한신더휴 펜트하우스
+  설명: APT | 민영 | 총 99세대
+  지역: 광주
+  기관: 케이비부동산신탁(주)
+  기간: 접수 2022-05-24 ~ 2022-05-27
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000169&pblancNo=2022000169
+- 제목: 초읍 월드메르디앙 에듀포레
+  설명: APT | 민영 | 총 96세대
+  지역: 부산
+  기관: 케이비부동산신탁주식회사
+  기간: 접수 2022-05-23 ~ 2022-05-26
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000285&pblancNo=2022000285
+- 제목: 조례 한양수자인 디에디션
+  설명: APT | 민영 | 총 340세대
+  지역: 전남
+  기관: 코리아신탁(주)
+  기간: 접수 2022-05-20 ~ 2022-05-25
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000275&pblancNo=2022000275
+- 제목: 제천자이 더 스카이
+  설명: APT | 민영 | 총 713세대
+  지역: 충북
+  기관: 우리자산신탁 주식회사
+  기간: 접수 2022-05-16 ~ 2022-05-19
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000262&pblancNo=2022000262
+- 제목: 장락동 세영리첼 에듀퍼스트
+  설명: APT | 민영 | 총 564세대
+  지역: 충북
+  기관: 주식회사 삼태사
+  기간: 접수 2022-05-16 ~ 2022-05-18
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000254&pblancNo=2022000254
+- 제목: 마크원 순천
+  설명: APT | 민영 | 총 99세대
+  지역: 전남
+  기관: (주)무궁화신탁
+  기간: 접수 2022-05-16 ~ 2022-05-19
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000123&pblancNo=2022000123
+- 제목: 태왕아너스 더힐
+  설명: APT | 민영 | 총 69세대
+  지역: 대구
+  기관: 코리아신탁(주)
+  기간: 접수 2022-05-16 ~ 2022-05-18
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000245&pblancNo=2022000245
+- 제목: 영통 푸르지오 파인베르(A2BL)
+  설명: APT | 민영 | 총 770세대
+  지역: 경기
+  기관: (주)대우건설
+  기간: 접수 2022-05-16 ~ 2022-05-19
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000244&pblancNo=2022000244
+- 제목: 영통 푸르지오 트레센츠(A1BL)
+  설명: APT | 민영 | 총 796세대
+  지역: 경기
+  기관: (주)대우건설
+  기간: 접수 2022-05-16 ~ 2022-05-19
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000243&pblancNo=2022000243
+- 제목: 초혁신도시 반도유보라 마크브릿지
+  설명: APT | 민영 | 총 476세대
+  지역: 강원
+  기관: (주)케이티에스테이트
+  기간: 접수 2022-05-09 ~ 2022-05-11
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000274&pblancNo=2022000274
+- 제목: 만촌자이르네
+  설명: APT | 민영 | 총 607세대
+  지역: 대구
+  기관: 아시아신탁주식회사
+  기간: 접수 2022-05-09 ~ 2022-05-11
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000273&pblancNo=2022000273
+- 제목: 김해 구산 푸르지오 파크테르
+  설명: APT | 민영 | 총 534세대
+  지역: 경남
+  기관: 아시아신탁주식회사
+  기간: 접수 2022-05-09 ~ 2022-05-11
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000260&pblancNo=2022000260

@@ -1,0 +1,180 @@
+﻿- 제목: 대전 도마·변동 11구역 호반써밋 그랜드센트럴(조합원 취소분)
+  설명: APT | 민영 | 총 4세대
+  지역: 대전
+  기관: 도마변동11재정비촉진구역 주택재개발정비사업조합
+  기간: 접수 2025-03-31 ~ 2025-04-01
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000052&pblancNo=2025000052
+- 제목: 창원 메가시티 자이앤위브
+  설명: APT | 민영 | 총 2041세대
+  지역: 경남
+  기관: 대야구역재개발정비사업조합
+  기간: 접수 2025-03-31 ~ 2025-04-02
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000048&pblancNo=2025000048
+- 제목: 동래 반도 유보라
+  설명: APT | 민영 | 총 400세대
+  지역: 부산
+  기관: 주식회사 하나자산신탁
+  기간: 접수 2025-03-31 ~ 2025-04-02
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000026&pblancNo=2025000026
+- 제목: 판암동 참좋은아파트 우선분양전환 후 잔여세대
+  설명: APT | 국민 | 총 29세대
+  지역: 대전
+  기관: 동건종합건설(주)
+  기간: 접수 2025-03-31 ~ 2025-04-01
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000079&pblancNo=2025000079
+- 제목: 선화동 참좋은아파트 우선분양전환 후 잔여세대
+  설명: APT | 국민 | 총 123세대
+  지역: 대전
+  기관: 동건종합건설(주)
+  기간: 접수 2025-03-31 ~ 2025-04-01
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000078&pblancNo=2025000078
+- 제목: 원주역 중흥S-클래스
+  설명: APT | 민영 | 총 508세대
+  지역: 강원
+  기관: 중봉건설 주식회사
+  기간: 접수 2025-03-24 ~ 2025-03-26
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000064&pblancNo=2025000064
+- 제목: 반월당역 반도유보라
+  설명: APT | 민영 | 총 147세대
+  지역: 대구
+  기관: (주)반도건설
+  기간: 접수 2025-03-24 ~ 2025-03-26
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000063&pblancNo=2025000063
+- 제목: 용현 우방 아이유쉘 센트럴마린
+  설명: APT | 민영 | 총 196세대
+  지역: 인천
+  기관: 용현5동새한아파트재건축정비사업조합
+  기간: 접수 2025-03-24 ~ 2025-03-26
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000021&pblancNo=2025000021
+- 제목: 본 아르떼 리버뷰
+  설명: APT | 민영 | 총 277세대
+  지역: 전북
+  기관: 신한자산신탁 주식회사
+  기간: 접수 2025-03-24 ~ 2025-03-26
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000749&pblancNo=2024000749
+- 제목: 안동 용상 하늘채 리버스카이
+  설명: APT | 민영 | 총 548세대
+  지역: 경북
+  기관: (주)한국토지신탁
+  기간: 접수 2025-03-10 ~ 2025-03-12
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000047&pblancNo=2025000047
+- 제목: 부천 JY 포에시아
+  설명: APT | 민영 | 총 55세대
+  지역: 경기
+  기관: 한국자산신탁(주)
+  기간: 접수 2025-03-10 ~ 2025-03-11
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000043&pblancNo=2025000043
+- 제목: 성남판교 산운마을9단지 대방노블랜드 아파트 우선 분양전환 후 잔여세대(15세대)
+  설명: APT | 국민 | 총 15세대
+  지역: 경기
+  기관: 대방건설 주식회사
+  기간: 접수 2025-03-10 ~ 2025-03-11
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000032&pblancNo=2025000032
+- 제목: 문수로 센트레빌 에듀리체
+  설명: APT | 민영 | 총 368세대
+  지역: 울산
+  기관: (주)영우디앤씨
+  기간: 접수 2025-03-04 ~ 2025-03-06
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000037&pblancNo=2025000037
+- 제목: e편한세상 동대구역 센텀스퀘어
+  설명: APT | 민영 | 총 322세대
+  지역: 대구
+  기관: 케이비부동산신탁(주)
+  기간: 접수 2025-03-04 ~ 2025-03-06
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000028&pblancNo=2025000028
+- 제목: 진월 더리브 라포레
+  설명: APT | 민영 | 총 111세대
+  지역: 광주
+  기관: 진월동지역주택조합
+  기간: 접수 2025-03-04 ~ 2025-03-06
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000025&pblancNo=2025000025
+- 제목: e편한세상 제물포역 파크메종(조합원 취소분)
+  설명: APT | 민영 | 총 29세대
+  지역: 인천
+  기관: 숭의3주택재개발정비사업조합
+  기간: 접수 2025-03-04 ~ 2025-03-06
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000020&pblancNo=2025000020
+- 제목: e편한세상 성성호수공원
+  설명: APT | 민영 | 총 1498세대
+  지역: 충남
+  기관: 주식회사 하나자산신탁
+  기간: 접수 2025-03-04 ~ 2025-03-06
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000036&pblancNo=2025000036
+- 제목: 이안 센트럴포레 장유 2단지
+  설명: APT | 민영 | 총 10세대
+  지역: 경남
+  기관: 김해장유지역주택조합2단지
+  기간: 접수 2025-02-24 ~ 2025-02-26
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000030&pblancNo=2025000030
+- 제목: 이안 센트럴포레 장유 1단지
+  설명: APT | 민영 | 총 11세대
+  지역: 경남
+  기관: 김해장유지역주택조합1단지
+  기간: 접수 2025-02-24 ~ 2025-02-26
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000029&pblancNo=2025000029
+- 제목: 우정동 한양립스 더 센트럴
+  설명: APT | 민영 | 총 99세대
+  지역: 울산
+  기관: 우정동뉴시티지역주택조합
+  기간: 접수 2025-02-24 ~ 2025-02-26
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000027&pblancNo=2025000027
+- 제목: 거제역 양우내안애 아시아드
+  설명: APT | 민영 | 총 168세대
+  지역: 부산
+  기관: 케이비부동산신탁(주)
+  기간: 접수 2025-02-24 ~ 2025-02-26
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000005&pblancNo=2025000005
+- 제목: 두류센트레빌 더 파크
+  설명: APT | 민영 | 총 52세대
+  지역: 대구
+  기관: 두류야외음악당지역주택조합
+  기간: 접수 2025-02-24 ~ 2025-02-26
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000017&pblancNo=2025000017
+- 제목: 광주첨단2지구 사랑으로 부영 분양전환 후 잔여세대
+  설명: APT | 국민 | 총 176세대
+  지역: 광주
+  기관: (주)부영주택
+  기간: 접수 2025-02-20 ~ 2025-02-21
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000015&pblancNo=2025000015
+- 제목: 평택청북 사랑으로 부영 2차 아파트 우선분양 전환 후 잔여세대
+  설명: APT | 민영 | 총 39세대
+  지역: 경기
+  기관: (주)동광주택
+  기간: 접수 2025-02-20 ~ 2025-02-21
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000014&pblancNo=2025000014
+- 제목: 대전 롯데캐슬 더퍼스트
+  설명: APT | 민영 | 총 394세대
+  지역: 대전
+  기관: 가오동2구역 재건축정비사업조합
+  기간: 접수 2025-02-19 ~ 2025-02-21
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000703&pblancNo=2024000703
+- 제목: 고양창릉지구 A-4블록 신혼희망타운(공공분양)(본청약)
+  설명: 신혼희망타운 | 국민 | 총 603세대
+  지역: 경기
+  기관: 한국토지주택공사 경기북부지역본부
+  기간: 접수 2025-02-17 ~ 2025-02-21
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025820001&pblancNo=2025820001
+- 제목: 고양창릉지구 S-5블록 공공분양주택(본청약)
+  설명: APT | 국민 | 총 759세대
+  지역: 경기
+  기관: 한국토지주택공사 경기북부지역본부
+  기간: 접수 2025-02-17 ~ 2025-02-21
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000019&pblancNo=2025000019
+- 제목: 고양창릉지구 S-6블록 공공분양주택(본청약)
+  설명: APT | 국민 | 총 430세대
+  지역: 경기
+  기관: 한국토지주택공사 경기북부지역본부
+  기간: 접수 2025-02-17 ~ 2025-02-21
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000013&pblancNo=2025000013
+- 제목: 남울산 노르웨이숲
+  설명: APT | 민영 | 총 332세대
+  지역: 울산
+  기관: 울산온양발리스타지역주택조합
+  기간: 접수 2025-02-03 ~ 2025-02-05
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000750&pblancNo=2024000750
+- 제목: 양주 용암 영무 예다음 더퍼스트
+  설명: APT | 민영 | 총 285세대
+  지역: 경기
+  기관: 양주용암3지구지역주택조합
+  기간: 접수 2025-01-31 ~ 2025-02-04
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000004&pblancNo=2025000004

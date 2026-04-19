@@ -1,0 +1,180 @@
+﻿- 제목: 다운 한양립스 더 퍼스트 하임
+  설명: APT | 민영 | 총 140세대
+  지역: 울산
+  기관: 울산다운지역주택조합,(주)한양건설
+  기간: 접수 2023-12-18 ~ 2023-12-20
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000436&pblancNo=2023000436
+- 제목: 영주자이 시그니처
+  설명: APT | 민영 | 총 763세대
+  지역: 경북
+  기관: 주식회사 하나자산신탁
+  기간: 접수 2023-12-18 ~ 2023-12-20
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000635&pblancNo=2023000635
+- 제목: 아산 탕정지구 2-A12BL 대광로제비앙(본청약)
+  설명: APT | 민영 | 총 186세대
+  지역: 충남
+  기관: (주)디케이랜드
+  기간: 접수 2023-12-14 ~ 2023-12-18
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000638&pblancNo=2023000638
+- 제목: 파주와동 A1블록 신혼희망타운(공공분양) 잔여세대
+  설명: 신혼희망타운 | 국민 | 총 11세대
+  지역: 경기
+  기관: 한국토지주택공사 경기북부지역본부
+  기간: 접수 2023-12-13 ~ 2023-12-14
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023820023&pblancNo=2023820023
+- 제목: 스위트캐슬 더프라임
+  설명: APT | 민영 | 총 77세대
+  지역: 경남
+  기관: 대한토지신탁(주)
+  기간: 접수 2023-12-11 ~ 2023-12-12
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000648&pblancNo=2023000648
+- 제목: 서산 센트럴 아이파크
+  설명: APT | 민영 | 총 410세대
+  지역: 충남
+  기관: 에이치디씨현대산업개발 주식회사
+  기간: 접수 2023-12-11 ~ 2023-12-13
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000624&pblancNo=2023000624
+- 제목: 청계리버뷰자이
+  설명: APT | 민영 | 총 797세대
+  지역: 서울
+  기관: 용답동주택재개발정비사업조합
+  기간: 접수 2023-12-11 ~ 2023-12-13
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000532&pblancNo=2023000532
+- 제목: 이천중리B1-BL 우미린 어반퍼스트
+  설명: APT | 민영 | 총 785세대
+  지역: 경기
+  기관: (주)이천중리제일차피에프브이
+  기간: 접수 2023-12-11 ~ 2023-12-13
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000637&pblancNo=2023000637
+- 제목: 고양지축 A-2블록 신혼희망타운(공공분양) 잔여세대
+  설명: 신혼희망타운 | 국민 | 총 1세대
+  지역: 경기
+  기관: 한국토지주택공사 경기북부지역본부
+  기간: 접수 2023-12-07 ~ 2023-12-08
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023820022&pblancNo=2023820022
+- 제목: 삼익 더 랩소디
+  설명: APT | 민영 | 총 45세대
+  지역: 서울
+  기관: (주)삼익건설개발
+  기간: 접수 2023-12-07 ~ 2023-12-08
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000647&pblancNo=2023000647
+- 제목: 소사역 롯데캐슬 더 뉴엘
+  설명: APT | 민영 | 총 983세대
+  지역: 경기
+  기관: 부천소사피에프브이 주식회사
+  기간: 접수 2023-12-07 ~ 2023-12-11
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000589&pblancNo=2023000589
+- 제목: 제일풍경채 검단Ⅳ
+  설명: APT | 민영 | 총 1048세대
+  지역: 인천
+  기관: 인천검단3차피에프브이(주)
+  기간: 접수 2023-12-07 ~ 2023-12-11
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000558&pblancNo=2023000558
+- 제목: 아틀리에 933
+  설명: APT | 민영 | 총 72세대
+  지역: 부산
+  기관: 주식회사 대성문
+  기간: 접수 2023-12-04 ~ 2023-12-06
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000645&pblancNo=2023000645
+- 제목: 왕길역 로열파크씨티 푸르지오
+  설명: APT | 민영 | 총 1500세대
+  지역: 인천
+  기관: 주식회사 하나자산신탁
+  기간: 접수 2023-12-04 ~ 2023-12-06
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000640&pblancNo=2023000640
+- 제목: 원봉공원 힐데스하임
+  설명: APT | 민영 | 총 1211세대
+  지역: 충북
+  기관: 주식회사 정각
+  기간: 접수 2023-12-04 ~ 2023-12-06
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000633&pblancNo=2023000633
+- 제목: 강릉 모아미래도 오션리버
+  설명: APT | 민영 | 총 561세대
+  지역: 강원
+  기관: (주)미래도건설
+  기간: 접수 2023-12-04 ~ 2023-12-06
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000630&pblancNo=2023000630
+- 제목: 부산에코델타시티 디에트르 그랑루체(13BL)
+  설명: APT | 민영 | 총 1470세대
+  지역: 부산
+  기관: 대방하우징(주)
+  기간: 접수 2023-12-05 ~ 2023-12-07
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000628&pblancNo=2023000628
+- 제목: 청주 가경 아이파크 6단지
+  설명: APT | 민영 | 총 946세대
+  지역: 충북
+  기관: 에이치디씨현대산업개발 주식회사
+  기간: 접수 2023-12-04 ~ 2023-12-06
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000621&pblancNo=2023000621
+- 제목: 마포 푸르지오 어반피스
+  설명: APT | 민영 | 총 122세대
+  지역: 서울
+  기관: 마포로3구역제3지구도시정비형재개발조합
+  기간: 접수 2023-12-04 ~ 2023-12-06
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000608&pblancNo=2023000608
+- 제목: 오산세교2지구 A-3블록 파라곤
+  설명: APT | 민영 | 총 1068세대
+  지역: 경기
+  기관: 주식회사 라인하우징
+  기간: 접수 2023-12-04 ~ 2023-12-06
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000473&pblancNo=2023000473
+- 제목: e편한세상 제물포역 파크메종
+  설명: APT | 민영 | 총 449세대
+  지역: 인천
+  기관: 숭의3주택재개발정비사업조합
+  기간: 접수 2023-12-04 ~ 2023-12-06
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000642&pblancNo=2023000642
+- 제목: 운서역 대라수 어썸에듀
+  설명: APT | 민영 | 총 311세대
+  지역: 인천
+  기관: 주은주택건설주식회사
+  기간: 접수 2023-11-27 ~ 2023-11-29
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000627&pblancNo=2023000627
+- 제목: 더폴 디오션
+  설명: APT | 민영 | 총 184세대
+  지역: 부산
+  기관: 케이비부동산신탁(주)
+  기간: 접수 2023-11-27 ~ 2023-11-29
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000610&pblancNo=2023000610
+- 제목: 도마 포레나해모로
+  설명: APT | 민영 | 총 568세대
+  지역: 대전
+  기관: 도마·변동9재정비촉진구역주택재개발정비사업조합
+  기간: 접수 2023-11-27 ~ 2023-11-29
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000601&pblancNo=2023000601
+- 제목: 임실 고운라피네 더 퍼스트
+  설명: APT | 민영 | 총 129세대
+  지역: 전북
+  기관: 고운주택(주)
+  기간: 접수 2023-11-27 ~ 2023-11-29
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000577&pblancNo=2023000577
+- 제목: 해링턴 마레
+  설명: APT | 민영 | 총 1382세대
+  지역: 부산
+  기관: 우암1구역주택재개발정비사업조합
+  기간: 접수 2023-11-27 ~ 2023-11-29
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000625&pblancNo=2023000625
+- 제목: 화성능동 B-1블록 신혼희망타운(공공분양)잔여세대
+  설명: 신혼희망타운 | 국민 | 총 1세대
+  지역: 경기
+  기관: 한국토지주택공사 경기남부지역본부
+  기간: 접수 2023-11-22 ~ 2023-11-23
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023820021&pblancNo=2023820021
+- 제목: 문현 푸르지오 트레시엘
+  설명: APT | 국민 | 총 561세대
+  지역: 부산
+  기관: 한국토지주택공사
+  기간: 접수 2023-11-20 ~ 2023-11-22
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000603&pblancNo=2023000603
+- 제목: 운정3 제일풍경채(A46BL) (본청약)
+  설명: APT | 민영 | 총 121세대
+  지역: 경기
+  기관: (주)파주운정46피에프브이,(주)웰메이드스페이스
+  기간: 접수 2023-11-20 ~ 2023-11-22
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000583&pblancNo=2023000583
+- 제목: 위파크 안동 호반
+  설명: APT | 민영 | 총 820세대
+  지역: 경북
+  기관: (주)호반건설
+  기간: 접수 2023-11-20 ~ 2023-11-22
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000609&pblancNo=2023000609

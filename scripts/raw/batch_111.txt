@@ -1,0 +1,180 @@
+﻿- 제목: 오산 라온프라이빗 스위트
+  설명: APT | 민영 | 총 438세대
+  지역: 경기
+  기관: 다온개발(주)
+  기간: 접수 2022-01-03 ~ 2022-01-06
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2021000941&pblancNo=2021000941
+- 제목: 나주역자이 리버파크
+  설명: APT | 민영 | 총 1554세대
+  지역: 전남
+  기관: 한국투자부동산신탁 주식회사
+  기간: 접수 2022-01-03 ~ 2022-01-05
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2021000919&pblancNo=2021000919
+- 제목: 더샵 송도아크베이(B3BL)
+  설명: APT | 민영 | 총 608세대
+  지역: 인천
+  기관: 케이비부동산신탁(주)
+  기간: 접수 2022-01-04 ~ 2022-01-06
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2021000883&pblancNo=2021000883
+- 제목: 계양 동도센트리움 골든베이
+  설명: APT | 민영 | 총 131세대
+  지역: 인천
+  기관: 동도디앤씨(주)
+  기간: 접수 2022-01-03 ~ 2022-01-06
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2021000974&pblancNo=2021000974
+- 제목: 음성 푸르지오 더 퍼스트
+  설명: APT | 민영 | 총 1048세대
+  지역: 충북
+  기관: 교보자산신탁(주)
+  기간: 접수 2022-01-03 ~ 2022-01-06
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2021000961&pblancNo=2021000961
+- 제목: 달서 롯데캐슬 센트럴스카이
+  설명: APT | 민영 | 총 481세대
+  지역: 대구
+  기관: 대신자산신탁 주식회사
+  기간: 접수 2022-01-04 ~ 2022-01-07
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2021000959&pblancNo=2021000959
+- 제목: 음성 동문 디 이스트
+  설명: APT | 민영 | 총 687세대
+  지역: 충북
+  기관: 주식회사 동문
+  기간: 접수 2022-01-03 ~ 2022-01-06
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2021000946&pblancNo=2021000946
+- 제목: 천안 성성 비스타동원
+  설명: APT | 민영 | 총 1195세대
+  지역: 충남
+  기관: (주)동원개발
+  기간: 접수 2022-01-03 ~ 2022-01-06
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2021000895&pblancNo=2021000895
+- 제목: 신경주 반도유보라 아이비파크 B5블럭
+  설명: APT | 민영 | 총 390세대
+  지역: 경북
+  기관: (주)반도건설
+  기간: 접수 2021-12-27 ~ 2021-12-29
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2021000984&pblancNo=2021000984
+- 제목: 신경주 반도유보라 아이비파크 B4블럭
+  설명: APT | 민영 | 총 1100세대
+  지역: 경북
+  기관: (주)반도건설
+  기간: 접수 2021-12-27 ~ 2021-12-29
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2021000983&pblancNo=2021000983
+- 제목: 펜타힐즈 푸르지오 2차
+  설명: APT | 민영 | 총 506세대
+  지역: 경북
+  기관: 대한토지신탁(주)
+  기간: 접수 2021-12-27 ~ 2021-12-30
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2021000971&pblancNo=2021000971
+- 제목: 효성해링턴 플레이스 안성 공도
+  설명: APT | 민영 | 총 705세대
+  지역: 경기
+  기관: 신영부동산신탁 주식회사
+  기간: 접수 2021-12-27 ~ 2021-12-30
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2021000970&pblancNo=2021000970
+- 제목: 용문역 리체스트
+  설명: APT | 민영 | 총 88세대
+  지역: 대전
+  기관: 코리아신탁(주)
+  기간: 접수 2021-12-27 ~ 2021-12-30
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2021000958&pblancNo=2021000958
+- 제목: 익산자이 그랜드파크
+  설명: APT | 민영 | 총 1431세대
+  지역: 전북
+  기관: (주)한국토지신탁
+  기간: 접수 2021-12-27 ~ 2021-12-29
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2021000956&pblancNo=2021000956
+- 제목: 힐스테이트 평택 더퍼스트
+  설명: APT | 민영 | 총 698세대
+  지역: 경기
+  기관: 서정연립주택재건축정비사업조합
+  기간: 접수 2021-12-27 ~ 2021-12-30
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2021000955&pblancNo=2021000955
+- 제목: 강릉역 경남아너스빌 더 센트로
+  설명: APT | 민영 | 총 116세대
+  지역: 강원
+  기관: 강릉교동센트럴파크지역주택조합
+  기간: 접수 2021-12-27 ~ 2021-12-29
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2021000953&pblancNo=2021000953
+- 제목: 중우아팰리스 더힐
+  설명: APT | 민영 | 총 112세대
+  지역: 전남
+  기관: 교보자산신탁(주)
+  기간: 접수 2021-12-27 ~ 2021-12-30
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2021000948&pblancNo=2021000948
+- 제목: 구미 인동 하늘채 디어반
+  설명: APT | 민영 | 총 291세대
+  지역: 경북
+  기관: 케이비부동산신탁(주)
+  기간: 접수 2021-12-27 ~ 2021-12-29
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2021000945&pblancNo=2021000945
+- 제목: 홍천극동스타클래스
+  설명: APT | 민영 | 총 210세대
+  지역: 강원
+  기관: (주)무궁화신탁
+  기간: 접수 2021-12-27 ~ 2021-12-29
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2021000920&pblancNo=2021000920
+- 제목: e편한세상 검단 어반센트로
+  설명: APT | 국민 | 총 822세대
+  지역: 인천
+  기관: 디엘이앤씨 주식회사
+  기간: 접수 2021-12-27 ~ 2021-12-29
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2021000916&pblancNo=2021000916
+- 제목: 인천 청라국제도시 A-3블록 호반베르디움
+  설명: APT | 민영 | 총 210세대
+  지역: 인천
+  기관: 티에스자산개발 주식회사
+  기간: 접수 2021-12-27 ~ 2021-12-29
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2021000912&pblancNo=2021000912
+- 제목: 인천 청라국제도시 A-4블록 인천청라 시티프라디움
+  설명: APT | 민영 | 총 270세대
+  지역: 인천
+  기관: (주)시티건설
+  기간: 접수 2021-12-27 ~ 2021-12-29
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2021000893&pblancNo=2021000893
+- 제목: 힐스테이트 초월역 2BL
+  설명: APT | 민영 | 총 506세대
+  지역: 경기
+  기관: 신영부동산신탁 주식회사
+  기간: 접수 2021-12-27 ~ 2021-12-29
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2021000882&pblancNo=2021000882
+- 제목: 힐스테이트 초월역 1BL
+  설명: APT | 민영 | 총 591세대
+  지역: 경기
+  기관: 신영부동산신탁 주식회사
+  기간: 접수 2021-12-27 ~ 2021-12-29
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2021000881&pblancNo=2021000881
+- 제목: e편한세상 신곡 파크프라임
+  설명: APT | 민영 | 총 650세대
+  지역: 경기
+  기관: 교보자산신탁(주)
+  기간: 접수 2021-12-27 ~ 2021-12-30
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2021000874&pblancNo=2021000874
+- 제목: 브라운스톤 더 프라임
+  설명: APT | 민영 | 총 209세대
+  지역: 인천
+  기관: (주)한국토지신탁
+  기간: 접수 2021-12-28 ~ 2021-12-31
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2021000838&pblancNo=2021000838
+- 제목: 대전 하늘채 스카이앤 2차
+  설명: APT | 민영 | 총 743세대
+  지역: 대전
+  기관: 케이비부동산신탁(주)
+  기간: 접수 2021-12-27 ~ 2021-12-30
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2021000332&pblancNo=2021000332
+- 제목: 제주 이도일동 벨라시티 프리미어
+  설명: APT | 민영 | 총 63세대
+  지역: 제주
+  기관: 아시아신탁주식회사
+  기간: 접수 2021-12-27 ~ 2021-12-28
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2021000957&pblancNo=2021000957
+- 제목: 제일풍경채 검단Ⅰ
+  설명: APT | 민영 | 총 1425세대
+  지역: 인천
+  기관: 인천검단1차피에프브이(주)
+  기간: 접수 2021-12-28 ~ 2021-12-30
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2021000911&pblancNo=2021000911
+- 제목: 라펜트 힐
+  설명: APT | 민영 | 총 72세대
+  지역: 광주
+  기관: 아시아신탁주식회사
+  기간: 접수 2021-12-23 ~ 2021-12-28
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2021000975&pblancNo=2021000975

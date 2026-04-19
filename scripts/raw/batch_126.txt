@@ -1,0 +1,180 @@
+﻿- 제목: 세종 리첸시아 파밀리에 H2블록
+  설명: APT | 민영 | 총 770세대
+  지역: 세종
+  기관: 금호산업(주)
+  기간: 접수 2021-02-01 ~ 2021-02-03
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2021000025&pblancNo=2021000025
+- 제목: 가평자이
+  설명: APT | 민영 | 총 505세대
+  지역: 경기
+  기관: (주)서우도시개발
+  기간: 접수 2021-02-01 ~ 2021-02-03
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2021000021&pblancNo=2021000021
+- 제목: 목포 한양립스 더 포레
+  설명: APT | 민영 | 총 194세대
+  지역: 전남
+  기관: 석현도룡지역주택조합
+  기간: 접수 2021-02-01 ~ 2021-02-03
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2021000020&pblancNo=2021000020
+- 제목: 수성 더팰리스 푸르지오 더샵
+  설명: APT | 민영 | 총 1055세대
+  지역: 대구
+  기관: 파동강촌2지구주택재건축정비사업조합
+  기간: 접수 2021-02-01 ~ 2021-02-04
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2021000001&pblancNo=2021000001
+- 제목: 순창 남양 휴튼
+  설명: APT | 민영 | 총 378세대
+  지역: 전북
+  기관: (주)무궁화신탁
+  기간: 접수 2021-01-25 ~ 2021-01-27
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2021000030&pblancNo=2021000030
+- 제목: e편한세상 가평 퍼스트원
+  설명: APT | 민영 | 총 472세대
+  지역: 경기
+  기관: 대한토지신탁(주)
+  기간: 접수 2021-01-29 ~ 2021-02-02
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2021000004&pblancNo=2021000004
+- 제목: 증평 대성베르힐리오파크
+  설명: APT | 국민 | 총 580세대
+  지역: 충북
+  기관: 대성건설(주)
+  기간: 접수 2021-01-28 ~ 2021-02-01
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2021000005&pblancNo=2021000005
+- 제목: 송도자이 크리스탈오션
+  설명: APT | 민영 | 총 1503세대
+  지역: 인천
+  기관: 지에스건설(주)
+  기간: 접수 2021-01-27 ~ 2021-01-29
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020001464&pblancNo=2020001464
+- 제목: 동서산영무예다음
+  설명: APT | 민영 | 총 122세대
+  지역: 충남
+  기관: (주)무궁화신탁
+  기간: 접수 2021-01-26 ~ 2021-01-27
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020001463&pblancNo=2020001463
+- 제목: 구례 골든캐슬
+  설명: APT | 민영 | 총 49세대
+  지역: 전남
+  기관: 삼정디엔씨 주식회사
+  기간: 접수 2021-01-22 ~ 2021-01-25
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020001445&pblancNo=2020001445
+- 제목: 운암동 한국아델리움57 에듀힐즈
+  설명: APT | 민영 | 총 86세대
+  지역: 광주
+  기관: 에이치케이레져주식회사
+  기간: 접수 2021-01-18 ~ 2021-01-21
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020001462&pblancNo=2020001462
+- 제목: 의정부 고산 수자인 디에스티지 C4BL
+  설명: APT | 민영 | 총 1033세대
+  지역: 경기
+  기관: (주)보성
+  기간: 접수 2021-01-18 ~ 2021-01-20
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020001451&pblancNo=2020001451
+- 제목: 의정부 고산 수자인 디에스티지 C3BL
+  설명: APT | 민영 | 총 1134세대
+  지역: 경기
+  기관: 비에스아이시티피에프브이(주)
+  기간: 접수 2021-01-18 ~ 2021-01-20
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020001450&pblancNo=2020001450
+- 제목: 의정부 고산 수자인 디에스티지 C1BL
+  설명: APT | 민영 | 총 240세대
+  지역: 경기
+  기관: 비에스아이시티피에프브이(주)
+  기간: 접수 2021-01-18 ~ 2021-01-20
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020001449&pblancNo=2020001449
+- 제목: 한화 포레나 인천연수
+  설명: APT | 민영 | 총 767세대
+  지역: 인천
+  기관: 아시아신탁주식회사
+  기간: 접수 2021-01-18 ~ 2021-01-21
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020001394&pblancNo=2020001394
+- 제목: 모티 더베스트빌
+  설명: APT | 민영 | 총 37세대
+  지역: 부산
+  기관: 주식회사 모티
+  기간: 접수 2021-01-18 ~ 2021-01-21
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020001457&pblancNo=2020001457
+- 제목: 통영 더유엘윈썸
+  설명: APT | 민영 | 총 130세대
+  지역: 경남
+  기관: 통영서희지역주택조합
+  기간: 접수 2021-01-14 ~ 2021-01-15
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020001454&pblancNo=2020001454
+- 제목: KTX포항역 삼구 트리니엔
+  설명: APT | 민영 | 총 1156세대
+  지역: 경북
+  기관: 삼구건설(주)
+  기간: 접수 2021-01-13 ~ 2021-01-15
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020001441&pblancNo=2020001441
+- 제목: 부산범천2 1블록(LH센트럴힐) 공공분양주택
+  설명: APT | 국민 | 총 327세대
+  지역: 부산
+  기관: 한국토지주택공사 부산울산지역본부
+  기간: 접수 2021-01-13 ~ 2021-01-15
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020001437&pblancNo=2020001437
+- 제목: 충무동 마린힐즈
+  설명: APT | 민영 | 총 44세대
+  지역: 경남
+  기관: (주) 세호
+  기간: 접수 2021-01-11 ~ 2021-01-13
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020001423&pblancNo=2020001423
+- 제목: 강릉자이 파인베뉴
+  설명: APT | 민영 | 총 918세대
+  지역: 강원
+  기관: (주)하나자산신탁
+  기간: 접수 2021-01-11 ~ 2021-01-13
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020001415&pblancNo=2020001415
+- 제목: e편한세상 부평 그랑힐스
+  설명: APT | 민영 | 총 2902세대
+  지역: 인천
+  기관: (주)무궁화신탁
+  기간: 접수 2021-01-11 ~ 2021-01-14
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020001360&pblancNo=2020001360
+- 제목: 구미IC 광신프로그레스
+  설명: APT | 민영 | 총 265세대
+  지역: 경북
+  기관: 원평주공아파트주택재건축정비사업조합
+  기간: 접수 2021-01-11 ~ 2021-01-13
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020001452&pblancNo=2020001452
+- 제목: 의정부고산 S3BL 공공분양주택
+  설명: APT | 국민 | 총 1331세대
+  지역: 경기
+  기관: 한국토지주택공사 서울지역본부
+  기간: 접수 2021-01-13 ~ 2021-01-14
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020001442&pblancNo=2020001442
+- 제목: 부평 캐슬앤더샵 퍼스트
+  설명: APT | 민영 | 총 1140세대
+  지역: 인천
+  기관: 청천1주택재개발정비사업조합
+  기간: 접수 2021-01-11 ~ 2021-01-14
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020001399&pblancNo=2020001399
+- 제목: 힐스테이트 감삼 센트럴
+  설명: APT | 민영 | 총 393세대
+  지역: 대구
+  기관: 티케이빌드(주)
+  기간: 접수 2021-01-11 ~ 2021-01-14
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020001391&pblancNo=2020001391
+- 제목: 고양지축 A-2블록 신혼희망타운(공공분양)
+  설명: APT | 국민 | 총 389세대
+  지역: 경기
+  기관: 한국토지주택공사 인천지역본부
+  기간: 접수 2021-01-12 ~ 2021-01-13
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020001438&pblancNo=2020001438
+- 제목: 장항지구 A-5블록 신혼희망타운
+  설명: APT | 국민 | 총 444세대
+  지역: 경기
+  기관: 한국토지주택공사 인천지역본부
+  기간: 접수 2021-01-12 ~ 2021-01-14
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020001436&pblancNo=2020001436
+- 제목: 장항지구 A-4블록 신혼희망타운
+  설명: APT | 국민 | 총 994세대
+  지역: 경기
+  기관: 한국토지주택공사 인천지역본부
+  기간: 접수 2021-01-12 ~ 2021-01-14
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020001435&pblancNo=2020001435
+- 제목: 의귀리 국민임대주택
+  설명: APT | 국민 | 총 14세대
+  지역: 제주
+  기관: 제주특별자치도개발공사
+  기간: 접수 2021-01-11 ~ 2021-01-12
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2020001431&pblancNo=2020001431

@@ -1,0 +1,118 @@
+﻿- 제목: 대학생 아르바이트 운영
+  지역: 전국
+- 제목: 서산시 청년의 날 행사 추진
+  지역: 전국
+- 제목: 서산청년마당 운영
+  지역: 전국
+- 제목: 서산시청년정책네트워크 운영
+  지역: 전국
+- 제목: 서산시청년정책위원회 운영
+  지역: 전국
+- 제목: 청년농어업인 행복바우처 지원사업
+  지역: 전국
+- 제목: 임신축하금 지원사업
+  지역: 전국
+- 제목: 출산가정 산후조리비용 지원
+  지역: 전국
+- 제목: 성연 청소년문화의집 운영
+  지역: 전국
+- 제목: 청년농업인 영농정착지원
+  지역: 전국
+- 제목: 비정규학교 및 학력보완 교육 지원
+  지역: 전국
+- 제목: 울산 동구 청년센터 운영
+  지역: 전국
+- 제목: 횡성군 청년면접수당 지급
+  지역: 전국
+- 제목: 미취업 청년 어학 및 자격증 응시료 지원(성북구)
+  지역: 전국
+- 제목: 포천청년 키움옷장
+  지역: 전국
+- 제목: 포천 청년 창업자 임차료 지원
+  지역: 전국
+
+## [청약홈 분양정보]
+- 제목: 의정부역 센트럴 아이파크
+  설명: APT | 민영 | 총 400세대
+  지역: 경기
+  기관: 에이치디씨현대산업개발(주)
+  기간: 접수 2026-04-07 ~ 2026-04-09
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000055&pblancNo=2026000055
+- 제목: 선운지구다사로움 공가세대 일반공급
+  설명: APT | 국민 | 총 27세대
+  지역: 광주
+  기관: 광주광역시도시공사
+  기간: 접수 2026-04-03 ~ 2026-04-06
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000081&pblancNo=2026000081
+- 제목: 창원자이 더 스카이
+  설명: APT | 민영 | 총 509세대
+  지역: 경남
+  기관: 창원중앙피에프브이(주)
+  기간: 접수 2026-03-30 ~ 2026-04-01
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000075&pblancNo=2026000075
+- 제목: 한화포레나 부산당리
+  설명: APT | 민영 | 총 209세대
+  지역: 부산
+  기관: 당리2구역주택재개발정비사업조합
+  기간: 접수 2026-03-30 ~ 2026-04-01
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000066&pblancNo=2026000066
+- 제목: 더샵 신길센트럴시티
+  설명: APT | 민영 | 총 477세대
+  지역: 서울
+  기관: 신길5동지역주택조합
+  기간: 접수 2026-03-30 ~ 2026-04-02
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000064&pblancNo=2026000064
+- 제목: 아산탕정자이 메트로시티(A3BL)
+  설명: APT | 민영 | 총 1638세대
+  지역: 충남
+  기관: 교보자산신탁(주)
+  기간: 접수 2026-03-31 ~ 2026-04-02
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000051&pblancNo=2026000051
+- 제목: 대전 롯데캐슬 더퍼스트(조합원 취소분)
+  설명: APT | 민영 | 총 89세대
+  지역: 대전
+  기관: 가오동2구역 재건축정비사업조합
+  기간: 접수 2026-03-25 ~ 2026-03-27
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000045&pblancNo=2026000045
+- 제목: 아크로 드 서초
+  설명: APT | 민영 | 총 56세대
+  지역: 서울
+  기관: 서초신동아아파트 주택재건축정비사업조합
+  기간: 접수 2026-03-31 ~ 2026-04-03
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000497&pblancNo=2025000497
+- 제목: 오션포레베네스트하우스(미단시티 공동8BL)
+  설명: APT | 민영 | 총 253세대
+  지역: 인천
+  기관: (주)시너지밸류제2호
+  기간: 접수 2026-03-30 ~ 2026-04-01
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000063&pblancNo=2026000063
+- 제목: 에코델타시티 엘가 로제비앙
+  설명: APT | 민영 | 총 998세대
+  지역: 부산
+  기관: (주)부산에코5피에프브이
+  기간: 접수 2026-03-26 ~ 2026-03-30
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000057&pblancNo=2026000057
+- 제목: 시흥거모B1 호반써밋
+  설명: APT | 민영 | 총 310세대
+  지역: 경기
+  기관: (주)호반건설,진아건설(주)
+  기간: 접수 2026-03-23 ~ 2026-03-25
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000052&pblancNo=2026000052
+- 제목: 용인 플랫폼시티 라온프라이빗 아르디에
+  설명: APT | 민영 | 총 238세대
+  지역: 경기
+  기관: 코리아신탁(주)
+  기간: 접수 2026-03-23 ~ 2026-03-25
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000044&pblancNo=2026000044
+- 제목: 해링턴플레이스 오룡역
+  설명: APT | 민영 | 총 427세대
+  지역: 대전
+  기관: 한국투자부동산신탁 주식회사
+  기간: 접수 2026-03-23 ~ 2026-03-25
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000033&pblancNo=2026000033
+- 제목: 무등산 더힐(조합원 취소분)
+  설명: APT | 민영 | 총 33세대
+  지역: 광주
+  기관: 지산동지역주택조합
+  기간: 접수 2026-03-23 ~ 2026-03-24
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000574&pblancNo=2025000574

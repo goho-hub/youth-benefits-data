@@ -1,0 +1,180 @@
+﻿- 제목: 동탄레이크파크 자연앤 e편한세상(국민주택)
+  설명: APT | 국민 | 총 907세대
+  지역: 경기
+  기관: 경기주택도시공사
+  기간: 접수 2023-10-23 ~ 2023-10-25
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000435&pblancNo=2023000435
+- 제목: 동탄레이크파크 자연앤 e편한세상(민영주택)
+  설명: APT | 민영 | 총 320세대
+  지역: 경기
+  기관: 경기주택도시공사
+  기간: 접수 2023-10-23 ~ 2023-10-25
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000434&pblancNo=2023000434
+- 제목: 안양자이 더 포레스트
+  설명: APT | 민영 | 총 212세대
+  지역: 경기
+  기관: 화창지구재개발정비사업조합
+  기간: 접수 2023-10-23 ~ 2023-10-25
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000431&pblancNo=2023000431
+- 제목: e편한세상 강동 프레스티지원
+  설명: APT | 민영 | 총 263세대
+  지역: 서울
+  기관: 천호3주택재건축정비사업조합
+  기간: 접수 2023-10-23 ~ 2023-10-25
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000415&pblancNo=2023000415
+- 제목: 고창 광신프로그레스
+  설명: APT | 민영 | 총 206세대
+  지역: 전북
+  기관: (주)광신주택
+  기간: 접수 2023-10-23 ~ 2023-10-25
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000277&pblancNo=2023000277
+- 제목: 금정역 개성로니엘
+  설명: APT | 민영 | 총 80세대
+  지역: 경기
+  기관: 한국자산신탁(주)
+  기간: 접수 2023-10-23 ~ 2023-10-25
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000526&pblancNo=2023000526
+- 제목: 천호역 마에스트로
+  설명: APT | 민영 | 총 77세대
+  지역: 서울
+  기관: (주)무궁화신탁
+  기간: 접수 2023-10-23 ~ 2023-10-25
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000472&pblancNo=2023000472
+- 제목: 구미 그랑포레 데시앙
+  설명: APT | 민영 | 총 1350세대
+  지역: 경북
+  기관: 지엠파크(주),(주)태영건설
+  기간: 접수 2023-10-16 ~ 2023-10-18
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000525&pblancNo=2023000525
+- 제목: 더샵 소양스타리버
+  설명: APT | 민영 | 총 855세대
+  지역: 강원
+  기관: 춘천소양촉진2구역 재건축정비사업조합
+  기간: 접수 2023-10-16 ~ 2023-10-18
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000524&pblancNo=2023000524
+- 제목: 한동 화개리 에코리브
+  설명: APT | 민영 | 총 35세대
+  지역: 경북
+  기관: 한동건설(주)
+  기간: 접수 2023-10-16 ~ 2023-10-17
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000506&pblancNo=2023000506
+- 제목: 디오르나인 안양역
+  설명: APT | 민영 | 총 66세대
+  지역: 경기
+  기관: 주식회사 하나자산신탁
+  기간: 접수 2023-10-16 ~ 2023-10-18
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000499&pblancNo=2023000499
+- 제목: 트리우스 광명
+  설명: APT | 민영 | 총 730세대
+  지역: 경기
+  기관: 광명제2R구역 주택재개발정비사업조합
+  기간: 접수 2023-10-16 ~ 2023-10-18
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000480&pblancNo=2023000480
+- 제목: 인천검단신도시 디에트르 더 에듀(AA20BL)
+  설명: APT | 민영 | 총 781세대
+  지역: 인천
+  기관: 대방개발기업(주)
+  기간: 접수 2023-10-17 ~ 2023-10-19
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000479&pblancNo=2023000479
+- 제목: 강릉 오션시티 아이파크
+  설명: APT | 민영 | 총 794세대
+  지역: 강원
+  기관: 주식회사 하나자산신탁
+  기간: 접수 2023-10-16 ~ 2023-10-18
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000477&pblancNo=2023000477
+- 제목: 더샵 강동센트럴시티
+  설명: APT | 민영 | 총 168세대
+  지역: 서울
+  기관: 천호4촉진구역 도시환경정비사업조합
+  기간: 접수 2023-10-16 ~ 2023-10-18
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000443&pblancNo=2023000443
+- 제목: 힐스테이트 수원파크포레
+  설명: APT | 민영 | 총 482세대
+  지역: 경기
+  기관: (주)무궁화신탁
+  기간: 접수 2023-10-16 ~ 2023-10-18
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000502&pblancNo=2023000502
+- 제목: 파주운정3 A22블록 공공분양주택(본청약)
+  설명: APT | 국민 | 총 642세대
+  지역: 경기
+  기관: 한국토지주택공사 경기북부지역본부
+  기간: 접수 2023-10-19 ~ 2023-10-20
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000486&pblancNo=2023000486
+- 제목: 성남판교 산운마을 13단지 데시앙 공가세대 일반공급
+  설명: APT | 민영 | 총 5세대
+  지역: 경기
+  기관: 한국토지주택공사 경기남부지역본부
+  기간: 접수 2023-10-11 ~ 2023-10-12
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000496&pblancNo=2023000496
+- 제목: 성남판교 판교원마을 12단지 힐스테이트 공가세대 일반공급
+  설명: APT | 민영 | 총 3세대
+  지역: 경기
+  기관: 한국토지주택공사 경기남부지역본부
+  기간: 접수 2023-10-11 ~ 2023-10-12
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000495&pblancNo=2023000495
+- 제목: 성남판교 봇들마을3단지 휴먼시아 공가세대 일반공급
+  설명: APT | 국민 | 총 8세대
+  지역: 경기
+  기관: 한국토지주택공사 경기남부지역본부
+  기간: 접수 2023-10-11 ~ 2023-10-12
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000491&pblancNo=2023000491
+- 제목: 성남판교 산운마을11단지 판교포레라움 공가세대 일반공급
+  설명: APT | 국민 | 총 5세대
+  지역: 경기
+  기관: 한국토지주택공사 경기남부지역본부
+  기간: 접수 2023-10-11 ~ 2023-10-12
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000490&pblancNo=2023000490
+- 제목: 성남판교 산운마을12단지 공가세대 일반공급
+  설명: APT | 국민 | 총 1세대
+  지역: 경기
+  기관: 한국토지주택공사 경기남부지역본부
+  기간: 접수 2023-10-11 ~ 2023-10-12
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000489&pblancNo=2023000489
+- 제목: 월드메르디앙 송도
+  설명: APT | 민영 | 총 128세대
+  지역: 인천
+  기관: 우리자산신탁 주식회사
+  기간: 접수 2023-10-05 ~ 2023-10-10
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000463&pblancNo=2023000463
+- 제목: 화북세원멤버스
+  설명: APT | 민영 | 총 53세대
+  지역: 제주
+  기관: 주식회사 거상
+  기간: 접수 2023-10-05 ~ 2023-10-06
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000025&pblancNo=2023000025
+- 제목: 일루미스테이트(보류지)
+  설명: APT | 민영 | 총 59세대
+  지역: 경기
+  기관: 계수범박구역주택재개발정비사업조합
+  기간: 접수 2023-10-04 ~ 2023-10-05
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000482&pblancNo=2023000482
+- 제목: 오산세교2지구 A-13블록 호반써밋 본청약
+  설명: APT | 민영 | 총 850세대
+  지역: 경기
+  기관: (주)호반자산개발
+  기간: 접수 2023-10-04 ~ 2023-10-06
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000481&pblancNo=2023000481
+- 제목: e편한세상 검단 웰카운티(민영주택)
+  설명: APT | 민영 | 총 292세대
+  지역: 인천
+  기관: 인천도시공사,디엘이앤씨㈜,신동아건설㈜,㈜국원건설,㈜선두종합건설,㈜보광종합건설,청암종합건설㈜
+  기간: 접수 2023-10-04 ~ 2023-10-06
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000449&pblancNo=2023000449
+- 제목: e편한세상 검단 웰카운티(국민주택)
+  설명: APT | 국민 | 총 1166세대
+  지역: 인천
+  기관: 인천도시공사,디엘이앤씨㈜,신동아건설㈜,㈜국원건설,㈜선두종합건설,㈜보광종합건설,청암종합건설㈜
+  기간: 접수 2023-10-04 ~ 2023-10-06
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000448&pblancNo=2023000448
+- 제목: 강릉자이르네 디오션
+  설명: APT | 민영 | 총 228세대
+  지역: 강원
+  기관: 한국투자부동산신탁㈜
+  기간: 접수 2023-10-04 ~ 2023-10-06
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000444&pblancNo=2023000444
+- 제목: e편한세상 답십리 아르테포레(국민주택)
+  설명: APT | 국민 | 총 121세대
+  지역: 서울
+  기관: 서울주택도시공사
+  기간: 접수 2023-10-04 ~ 2023-10-06
+  링크: https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000438&pblancNo=2023000438
