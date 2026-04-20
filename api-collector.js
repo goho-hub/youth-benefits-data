@@ -6,6 +6,41 @@ const KEYS = {
   DATA_GO_KR:   process.env.DATA_GO_KR_KEY   ?? '',
 };
 
+// ─── 지역명 정규화 ─────────────────────────────────────────────
+const SIDO_LIST = [
+  '서울특별시','부산광역시','대구광역시','인천광역시','광주광역시',
+  '대전광역시','울산광역시','세종특별자치시','경기도','강원특별자치도',
+  '충청북도','충청남도','전라남도','경상북도','경상남도',
+  '전북특별자치도','제주특별자치도',
+];
+const SIDO_ALIASES_MAP = {
+  '서울':'서울특별시','부산':'부산광역시','대구':'대구광역시',
+  '인천':'인천광역시','광주':'광주광역시','대전':'대전광역시',
+  '울산':'울산광역시','세종':'세종특별자치시','경기':'경기도',
+  '강원':'강원특별자치도','충북':'충청북도','충남':'충청남도',
+  '전남':'전라남도','경북':'경상북도','경남':'경상남도',
+  '전북':'전북특별자치도','제주':'제주특별자치도',
+  '전라북도':'전북특별자치도','강원도':'강원특별자치도','제주도':'제주특별자치도',
+};
+
+function normalizeSido(raw) {
+  if (!raw || !raw.trim()) return null;
+  let s = raw.trim();
+  // "청" 접미사 제거 (울릉군청 → 울릉군, 부산시청 → 부산시)
+  if (s.endsWith('청')) s = s.slice(0, -1);
+  // 정확히 일치
+  if (SIDO_LIST.includes(s)) return s;
+  if (SIDO_ALIASES_MAP[s]) return SIDO_ALIASES_MAP[s];
+  // 포함(contains) — "경상북도 울릉군", "경북 청도군청" 등
+  for (const sido of SIDO_LIST) {
+    if (s.includes(sido)) return sido;
+  }
+  for (const [alias, sido] of Object.entries(SIDO_ALIASES_MAP)) {
+    if (alias.length >= 2 && s.includes(alias)) return sido;
+  }
+  return null;
+}
+
 const today = new Date().toISOString().split('T')[0];
 
 function convertYouthPolicy(p, index) {
@@ -21,9 +56,8 @@ function convertYouthPolicy(p, index) {
 
   const eligibleSidos = [];
   const regionStr = p.rgtrHghrkInstCdNm || p.rgtrUpInstCdNm || '';
-  if (regionStr && regionStr.trim() !== '') {
-    eligibleSidos.push(regionStr.trim());
-  }
+  const normalizedSido = normalizeSido(regionStr);
+  if (normalizedSido) eligibleSidos.push(normalizedSido);
 
   let deadline = null;
   if (p.aplyYmd) {
@@ -130,9 +164,8 @@ function convertWelfareLocal(item, index) {
   else if (title.includes('문화') || title.includes('여행') || title.includes('체육') || title.includes('예술')) category = '문화';
 
   const eligibleSidos = [];
-  if (region && region.trim() !== '') {
-    eligibleSidos.push(region.trim());
-  }
+  const normalizedSido = normalizeSido(region);
+  if (normalizedSido) eligibleSidos.push(normalizedSido);
 
   return {
     id: `benefit-${String(index).padStart(3, '0')}`,
