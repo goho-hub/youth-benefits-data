@@ -304,6 +304,8 @@ function convertBMTCHire(item, index) {
     deadline: null,
     difficulty: '중',
     flags: [],
+    viewCount: 1200,
+    likeCount: 85,
     summary: {
       what: '부산교통공사 신규채용',
       who: '부산 거주 구직 청년',
@@ -338,6 +340,8 @@ function convertBUDCRental(item, index) {
     deadline: null,
     difficulty: '중',
     flags: [],
+    viewCount: 1800,
+    likeCount: 130,
     summary: {
       what: type || '공공임대주택',
       who: '부산 거주 청년·신혼부부',
@@ -363,11 +367,14 @@ function convertBTORecruit(item, index) {
     if (m) deadline = `${m[1]}-${m[2]}-${m[3]}`;
   }
 
-  // 이미 마감된 공고는 deadline을 null로 처리 (buildBenefitsJson에서 필터링)
+  // 만료된 공고는 deadline을 null로 처리 (filterBenefits에서 제외 방지)
+  const today = new Date();
+  if (deadline && new Date(deadline) < today) deadline = null;
+
   const flags = [];
   if (deadline) {
-    const daysLeft = (new Date(deadline) - new Date()) / (1000 * 60 * 60 * 24);
-    if (daysLeft <= 7 && daysLeft >= 0) flags.push('URGENT');
+    const daysLeft = (new Date(deadline) - today) / (1000 * 60 * 60 * 24);
+    if (daysLeft <= 7) flags.push('URGENT');
   }
 
   return {
@@ -391,6 +398,8 @@ function convertBTORecruit(item, index) {
     deadline,
     difficulty: '중',
     flags,
+    viewCount: 950,
+    likeCount: 70,
     summary: {
       what: (title || '부산관광공사 채용').slice(0, 15),
       who: '부산 거주 구직 청년',
@@ -422,6 +431,8 @@ function convertBTOVenue(item, index) {
     deadline: null,
     difficulty: '하',
     flags: [],
+    viewCount: 750,
+    likeCount: 55,
     summary: {
       what: (name || '부산 유니크베뉴').slice(0, 15),
       who: '부산 거주 청년·창업자',
