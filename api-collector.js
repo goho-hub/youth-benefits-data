@@ -545,8 +545,14 @@ async function main() {
       if (!text) break;
 
       // 에러 체크
-      if (text.includes('Unexpected errors') || text.includes('SERVICE_KEY_IS_NOT_REGISTERED')) {
-        console.warn(`    ⚠️ 복지로 지자체 API 오류 — 건너뜀`);
+      const ERROR_MARKERS = [
+        'Unexpected errors', 'SERVICE_KEY_IS_NOT_REGISTERED',
+        'quota exceeded', 'QUOTA', 'LIMIT_EXCEEDED',
+        'INVALID_REQUEST_PARAMETER', 'NO_OPENAPI_SERVICE_ERROR',
+        'APPLICATION_ERROR', 'TEMPORARILY_DISABLE_THE_SERVICEKEY',
+      ];
+      if (ERROR_MARKERS.some(m => text.includes(m))) {
+        console.warn(`    ⚠️ 복지로 지자체 API 오류 — ${text.slice(0, 120)}`);
         break;
       }
 

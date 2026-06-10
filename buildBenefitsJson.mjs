@@ -2,6 +2,9 @@
  * buildBenefitsJson.mjs
  * scripts/output/ 의 가장 최신 JSON을 정제해 benefits.json으로 출력.
  * GitHub Actions에서 api-collector.js 실행 후 자동 호출됨.
+ *
+ * Fallback 전략: 특정 소스(복지로·온통청년)가 0개면
+ * 이전 benefits.json에서 해당 소스 항목을 보존해 데이터 공백을 방지.
  */
 
 import fs from 'fs';
@@ -58,6 +61,37 @@ let cleaned = raw.map(b => {
 const seen = new Map();
 for (const b of cleaned) seen.set(b.id, b);
 cleaned = [...seen.values()];
+
+// ── Fallback: 수집 실패한 소스는 이전 benefits.json에서 보완 ──────────────
+const FALLBACK_SOURCES = [
+  { key: '복지로',   check: b => b.summary?.how?.includes('복지로') },
+  { key: '온통청년', check: b => b.summary?.how?.includes('온통청년') },
+];
+
+if (fs.existsSync(OUTPUT)) {
+  let prevData = null;
+  try { prevData = JSON.parse(fs.readFileSync(OUTPUT, 'utf8')); } catch { /* ignore */ }
+
+  if (prevData && Array.isArray(prevData)) {
+    for (const src of FALLBACK_SOURCES) {
+      const todayCount = cleaned.filter(src.check).length;
+      if (todayCount > 0) continue; // 오늘 정상 수집됨
+
+      const prevItems = prevData.filter(src.check);
+      if (!prevItems.length) continue;
+
+      console.log(`⚠️  ${src.key} 0건 감지 — 이전 데이터 ${prevItems.length}건으로 보완`);
+
+      // 기존 ID 그대로 유지 (이미 중복 없음)
+      for (const item of prevItems) {
+        if (!seen.has(item.id)) {
+          seen.set(item.id, item);
+        }
+      }
+    }
+    cleaned = [...seen.values()];
+  }
+}
 
 fs.writeFileSync(OUTPUT, JSON.stringify(cleaned), 'utf8');
 
