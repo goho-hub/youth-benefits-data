@@ -257,6 +257,179 @@ function convertWelfareLocal(item, index) {
   };
 }
 
+// ─── 부산 공공데이터 odcloud 헬퍼 ────────────────────────────
+async function fetchOdcloud(namespace, uddiPath) {
+  const results = [];
+  let page = 1;
+  while (true) {
+    const url = `https://api.odcloud.kr/api/${namespace}/v1/${uddiPath}` +
+      `?serviceKey=${KEYS.DATA_GO_KR}&page=${page}&perPage=100&returnType=json`;
+    const data = await fetchJSON(url);
+    if (!data?.data?.length) break;
+    results.push(...data.data);
+    console.log(`  [${namespace}]: ${results.length}개 수집 중...`);
+    const total = data.totalCount ?? data.matchCount ?? Infinity;
+    if (results.length >= total || data.data.length < 100) break;
+    page++;
+    await sleep(300);
+  }
+  return results;
+}
+
+// 부산교통공사 신규채용인원 현황 → 취업 카드 (연도별 통계)
+function convertBMTCHire(item, index) {
+  const year       = item['연도'] ?? '';
+  const regular    = (item['정규직(일반)'] ?? 0) + (item['정규직(장애)'] ?? 0);
+  const intern     = (item['인턴(일반)'] ?? 0) + (item['인턴(장애인)'] ?? 0);
+  const gongmu     = item['공무직'] ?? 0;
+  const total      = regular + intern + gongmu;
+
+  return {
+    id: `benefit-${String(index).padStart(3, '0')}`,
+    title: `부산교통공사 ${year}년 신규채용 현황`,
+    category: '취업',
+    amount: 0,
+    amountLabel: `총 ${total}명 채용 (정규직 ${regular}명, 인턴 ${intern}명)`,
+    eligibleJobs: [],
+    eligibleSidos: ['부산광역시'],
+    minBirthYear: 1987,
+    maxBirthYear: 2007,
+    requirements: [
+      `정규직(일반): ${item['정규직(일반)'] ?? 0}명`,
+      `정규직(장애): ${item['정규직(장애)'] ?? 0}명`,
+      `인턴(일반): ${item['인턴(일반)'] ?? 0}명`,
+      `공무직: ${gongmu}명`,
+    ],
+    applyUrl: 'https://www.humetro.busan.kr/',
+    deadline: null,
+    difficulty: '중',
+    flags: [],
+    summary: {
+      what: '부산교통공사 신규채용',
+      who: '부산 거주 구직 청년',
+      how: '부산교통공사 채용공고 지원',
+    },
+  };
+}
+
+// 부산도시공사 임대주택 현황 → 주거 카드
+function convertBUDCRental(item, index) {
+  const name  = item['지구명'] || '';
+  const type  = item['유형'] || '';
+  const count = item['세대수'] ?? '';
+  const addr  = item['소재지'] || '';
+
+  return {
+    id: `benefit-${String(index).padStart(3, '0')}`,
+    title: name ? `[부산도시공사] ${name}` : '부산도시공사 임대주택',
+    category: '주거',
+    amount: 0,
+    amountLabel: [type, count && `${count}세대`].filter(Boolean).join(' | ') || '임대주택 공급',
+    eligibleJobs: [],
+    eligibleSidos: ['부산광역시'],
+    minBirthYear: 1987,
+    maxBirthYear: 2007,
+    requirements: [
+      addr  ? `위치: ${addr}` : '',
+      type  ? `임대유형: ${type}` : '',
+      count ? `세대수: ${count}세대` : '',
+    ].filter(Boolean),
+    applyUrl: 'https://www.bmc.busan.kr/',
+    deadline: null,
+    difficulty: '중',
+    flags: [],
+    summary: {
+      what: type || '공공임대주택',
+      who: '부산 거주 청년·신혼부부',
+      how: '부산도시공사 청약 신청',
+    },
+  };
+}
+
+// 부산관광공사 채용정보 → 취업 카드
+function convertBTORecruit(item, index) {
+  const title    = item['공고명'] || '';
+  const jobType  = item['일반전형'] || '';
+  const dept     = item['담당부서'] || '';
+  const contact  = item['연락처'] || '';
+  const method   = item['접수방법'] || '';
+  const rawDl    = item['접수마감일'] || item['공고마감일'] || null;
+  const startDt  = item['공고시작일'] || '';
+  const applyDt  = item['임용시기'] || '';
+
+  let deadline = null;
+  if (rawDl) {
+    const m = String(rawDl).match(/(\d{4})[-./]?(\d{2})[-./]?(\d{2})/);
+    if (m) deadline = `${m[1]}-${m[2]}-${m[3]}`;
+  }
+
+  // 이미 마감된 공고는 deadline을 null로 처리 (buildBenefitsJson에서 필터링)
+  const flags = [];
+  if (deadline) {
+    const daysLeft = (new Date(deadline) - new Date()) / (1000 * 60 * 60 * 24);
+    if (daysLeft <= 7 && daysLeft >= 0) flags.push('URGENT');
+  }
+
+  return {
+    id: `benefit-${String(index).padStart(3, '0')}`,
+    title: title || '부산관광공사 채용',
+    category: '취업',
+    amount: 0,
+    amountLabel: jobType || '공고 확인 필요',
+    eligibleJobs: [],
+    eligibleSidos: ['부산광역시'],
+    minBirthYear: 1987,
+    maxBirthYear: 2007,
+    requirements: [
+      jobType   ? `전형: ${jobType}` : '',
+      dept      ? `담당부서: ${dept}` : '',
+      method    ? `접수방법: ${method}` : '',
+      applyDt   ? `임용시기: ${applyDt}` : '',
+      contact   ? `연락처: ${contact}` : '',
+    ].filter(Boolean),
+    applyUrl: 'https://www.bto.or.kr/',
+    deadline,
+    difficulty: '중',
+    flags,
+    summary: {
+      what: (title || '부산관광공사 채용').slice(0, 15),
+      who: '부산 거주 구직 청년',
+      how: '부산관광공사 채용공고 지원',
+    },
+  };
+}
+
+// 부산관광공사 유니크베뉴 → 문화 카드
+function convertBTOVenue(item, index) {
+  const name = item['베뉴명'] || '';
+  const loc  = item['위치'] || '';  // 구 단위 위치
+
+  return {
+    id: `benefit-${String(index).padStart(3, '0')}`,
+    title: name ? `[부산 유니크베뉴] ${name}` : '부산 특별 이벤트 공간',
+    category: '문화',
+    amount: 0,
+    amountLabel: loc ? `부산 ${loc} 소재 특별 공간` : '공간 대관 문의',
+    eligibleJobs: [],
+    eligibleSidos: ['부산광역시'],
+    minBirthYear: 1987,
+    maxBirthYear: 2007,
+    requirements: [
+      loc ? `위치: 부산 ${loc}` : '',
+      '부산관광공사 유니크베뉴 예약 가능',
+    ].filter(Boolean),
+    applyUrl: 'https://www.bto.or.kr/',
+    deadline: null,
+    difficulty: '하',
+    flags: [],
+    summary: {
+      what: (name || '부산 유니크베뉴').slice(0, 15),
+      who: '부산 거주 청년·창업자',
+      how: '부산관광공사 문의 및 예약',
+    },
+  };
+}
+
 // ─── XML 파싱 유틸 ─────────────────────────────────────────
 function extractItems(xml) {
   const items = [];
@@ -391,6 +564,39 @@ async function main() {
     }
   }
 
+  // ── 4. 부산교통공사 신규채용인원 현황 ──
+  if (dataKeySet) {
+    console.log(`\n📡 부산교통공사 신규채용인원 현황 수집 중...`);
+    const items = await fetchOdcloud('15145396', 'uddi:73eb3674-9759-4856-b041-f7c63c73eedd');
+    items.forEach(p => allBenefits.push(convertBMTCHire(p, idCounter++)));
+    console.log(`  부산교통공사: ${items.length}개 변환됨`);
+  }
+
+  // ── 5. 부산도시공사 임대주택 현황 ──
+  if (dataKeySet) {
+    console.log(`\n📡 부산도시공사 임대주택 현황 수집 중...`);
+    // 두 데이터셋이 동일 구조 — totalCount가 더 많은 두 번째 사용
+    const items = await fetchOdcloud('15129641', 'uddi:40253ad8-6a09-42a7-8023-e229b5e4ae49');
+    items.forEach(p => allBenefits.push(convertBUDCRental(p, idCounter++)));
+    console.log(`  부산도시공사: ${items.length}개 변환됨`);
+  }
+
+  // ── 6. 부산관광공사 채용정보 ──
+  if (dataKeySet) {
+    console.log(`\n📡 부산관광공사 채용정보 수집 중...`);
+    const items = await fetchOdcloud('15144999', 'uddi:f1042c4c-2b26-4948-808f-da3b84100ea2');
+    items.forEach(p => allBenefits.push(convertBTORecruit(p, idCounter++)));
+    console.log(`  부산관광공사 채용: ${items.length}개 변환됨`);
+  }
+
+  // ── 7. 부산관광공사 유니크베뉴 ──
+  if (dataKeySet) {
+    console.log(`\n📡 부산관광공사 유니크베뉴 수집 중...`);
+    const items = await fetchOdcloud('15156491', 'uddi:cf14a586-03cb-4672-a766-9e4ee46db1e0');
+    items.forEach(p => allBenefits.push(convertBTOVenue(p, idCounter++)));
+    console.log(`  부산관광공사 유니크베뉴: ${items.length}개 변환됨`);
+  }
+
   const outputPath = `scripts/output/${today}.json`;
   await fs.writeFile(outputPath, JSON.stringify(allBenefits, null, 2), 'utf-8');
 
@@ -401,17 +607,25 @@ async function main() {
   });
 
   // 소스별 통계
-  const youthCount = allBenefits.filter(b => b.summary.how.includes('온통청년')).length;
+  const youthCount   = allBenefits.filter(b => b.summary.how.includes('온통청년')).length;
   const housingCount = allBenefits.filter(b => b.summary.how.includes('청약홈')).length;
   const welfareCount = allBenefits.filter(b => b.summary.how.includes('복지로')).length;
+  const bmtcCount    = allBenefits.filter(b => b.summary.how.includes('부산교통공사')).length;
+  const budcCount    = allBenefits.filter(b => b.summary.how.includes('부산도시공사')).length;
+  const btoRCount    = allBenefits.filter(b => b.summary.how.includes('부산관광공사 채용')).length;
+  const btoVCount    = allBenefits.filter(b => b.summary.how.includes('부산관광공사 문의')).length;
 
   console.log(`\n${'━'.repeat(50)}`);
   console.log(`✅ 완료!`);
   console.log(`📄 JSON 저장: ${outputPath}`);
   console.log(`📊 총 변환: ${allBenefits.length}개`);
-  console.log(`   ├─ 온통청년: ${youthCount}개`);
-  console.log(`   ├─ 청약홈:   ${housingCount}개`);
-  console.log(`   └─ 복지로:   ${welfareCount}개`);
+  console.log(`   ├─ 온통청년:          ${youthCount}개`);
+  console.log(`   ├─ 청약홈:            ${housingCount}개`);
+  console.log(`   ├─ 복지로:            ${welfareCount}개`);
+  console.log(`   ├─ 부산교통공사:      ${bmtcCount}개`);
+  console.log(`   ├─ 부산도시공사:      ${budcCount}개`);
+  console.log(`   ├─ 부산관광공사 채용: ${btoRCount}개`);
+  console.log(`   └─ 부산관광공사 베뉴: ${btoVCount}개`);
 }
 
 main().catch(e => { console.error('오류:', e); process.exit(1); });
