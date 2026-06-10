@@ -408,11 +408,10 @@ function convertBTORecruit(item, index) {
   };
 }
 
-// 부산관광공사 유니크베뉴 → 문화 카드
+// 부산관광공사 유니크베뉴 → 개별 카드 (미사용 — 통합 카드 사용)
 function convertBTOVenue(item, index) {
   const name = item['베뉴명'] || '';
-  const loc  = item['위치'] || '';  // 구 단위 위치
-
+  const loc  = item['위치'] || '';
   return {
     id: `benefit-${String(index).padStart(3, '0')}`,
     title: name ? `[부산 유니크베뉴] ${name}` : '부산 특별 이벤트 공간',
@@ -423,21 +422,71 @@ function convertBTOVenue(item, index) {
     eligibleSidos: ['부산광역시'],
     minBirthYear: 1987,
     maxBirthYear: 2007,
-    requirements: [
-      loc ? `위치: 부산 ${loc}` : '',
-      '부산관광공사 유니크베뉴 예약 가능',
-    ].filter(Boolean),
+    requirements: [loc ? `위치: 부산 ${loc}` : '', '부산관광공사 유니크베뉴 예약 가능'].filter(Boolean),
     applyUrl: 'https://www.bto.or.kr/',
     deadline: null,
     difficulty: '하',
     flags: [],
     viewCount: 750,
     likeCount: 55,
-    summary: {
-      what: (name || '부산 유니크베뉴').slice(0, 15),
-      who: '부산 거주 청년·창업자',
-      how: '부산관광공사 문의 및 예약',
-    },
+    summary: { what: (name || '부산 유니크베뉴').slice(0, 15), who: '부산 거주 청년·창업자', how: '부산관광공사 문의 및 예약' },
+  };
+}
+
+// 부산도시공사 임대주택 전체 → 단일 통합 카드
+function convertBUDCRentalAgg(items, index) {
+  const totalUnits = items.reduce((sum, it) => sum + (parseInt(it['세대수']) || 0), 0);
+  const types = [...new Set(items.map(it => it['유형']).filter(Boolean))];
+  return {
+    id: `benefit-${String(index).padStart(3, '0')}`,
+    title: '부산도시공사 임대주택 입주 신청',
+    category: '주거',
+    amount: 0,
+    amountLabel: `총 ${items.length}개 단지 · ${totalUnits.toLocaleString()}세대`,
+    eligibleJobs: [],
+    eligibleSidos: ['부산광역시'],
+    minBirthYear: 1987,
+    maxBirthYear: 2007,
+    requirements: [
+      `공급 유형: ${types.slice(0, 5).join(', ')}`,
+      `총 단지 수: ${items.length}개`,
+      `총 세대 수: ${totalUnits.toLocaleString()}세대`,
+    ],
+    applyUrl: 'https://www.bmc.busan.kr/',
+    deadline: null,
+    difficulty: '중',
+    flags: [],
+    viewCount: 2000,
+    likeCount: 150,
+    summary: { what: '공공임대주택 입주', who: '부산 거주 청년·신혼부부', how: '부산도시공사 청약 신청' },
+  };
+}
+
+// 부산관광공사 유니크베뉴 전체 → 단일 통합 카드
+function convertBTOVenueAgg(items, index) {
+  const names = items.map(it => it['베뉴명']).filter(Boolean);
+  return {
+    id: `benefit-${String(index).padStart(3, '0')}`,
+    title: `부산 유니크베뉴 공간 대관 (${items.length}곳)`,
+    category: '문화',
+    amount: 0,
+    amountLabel: `${items.length}개 특별 공간 예약 가능`,
+    eligibleJobs: [],
+    eligibleSidos: ['부산광역시'],
+    minBirthYear: 1987,
+    maxBirthYear: 2007,
+    requirements: [
+      `예약 가능 공간: ${names.slice(0, 3).join(', ')} 등`,
+      '행사·모임·창업 공간으로 활용 가능',
+      '부산관광공사 지정 유니크베뉴 총 ' + items.length + '곳',
+    ],
+    applyUrl: 'https://www.bto.or.kr/',
+    deadline: null,
+    difficulty: '하',
+    flags: [],
+    viewCount: 1900,
+    likeCount: 140,
+    summary: { what: '특별 공간 대관', who: '부산 거주 청년·창업자', how: '부산관광공사 문의 및 예약' },
   };
 }
 
@@ -581,37 +630,37 @@ async function main() {
     }
   }
 
-  // ── 4. 부산교통공사 신규채용인원 현황 ──
+  // ── 4. 부산교통공사 신규채용인원 현황 ── 최신 연도 1건만
   if (dataKeySet) {
     console.log(`\n📡 부산교통공사 신규채용인원 현황 수집 중...`);
     const items = await fetchOdcloud('15145396', 'uddi:73eb3674-9759-4856-b041-f7c63c73eedd');
-    items.forEach(p => allBenefits.push(convertBMTCHire(p, idCounter++)));
-    console.log(`  부산교통공사: ${items.length}개 변환됨`);
+    const sorted = [...items].sort((a, b) => (parseInt(b['연도']) || 0) - (parseInt(a['연도']) || 0));
+    if (sorted.length > 0) allBenefits.push(convertBMTCHire(sorted[0], idCounter++));
+    console.log(`  부산교통공사: ${items.length}건 → 최신 1건 수록`);
   }
 
-  // ── 5. 부산도시공사 임대주택 현황 ──
+  // ── 5. 부산도시공사 임대주택 현황 ── 1개로 통합
   if (dataKeySet) {
     console.log(`\n📡 부산도시공사 임대주택 현황 수집 중...`);
-    // 두 데이터셋이 동일 구조 — totalCount가 더 많은 두 번째 사용
     const items = await fetchOdcloud('15129641', 'uddi:40253ad8-6a09-42a7-8023-e229b5e4ae49');
-    items.forEach(p => allBenefits.push(convertBUDCRental(p, idCounter++)));
-    console.log(`  부산도시공사: ${items.length}개 변환됨`);
+    if (items.length > 0) allBenefits.push(convertBUDCRentalAgg(items, idCounter++));
+    console.log(`  부산도시공사: ${items.length}건 → 1개로 통합`);
   }
 
-  // ── 6. 부산관광공사 채용정보 ──
+  // ── 6. 부산관광공사 채용정보 ── 최신 3건만
   if (dataKeySet) {
     console.log(`\n📡 부산관광공사 채용정보 수집 중...`);
     const items = await fetchOdcloud('15144999', 'uddi:f1042c4c-2b26-4948-808f-da3b84100ea2');
-    items.forEach(p => allBenefits.push(convertBTORecruit(p, idCounter++)));
-    console.log(`  부산관광공사 채용: ${items.length}개 변환됨`);
+    items.slice(0, 3).forEach(p => allBenefits.push(convertBTORecruit(p, idCounter++)));
+    console.log(`  부산관광공사 채용: ${items.length}건 → 최신 3건 수록`);
   }
 
-  // ── 7. 부산관광공사 유니크베뉴 ──
+  // ── 7. 부산관광공사 유니크베뉴 ── 1개로 통합
   if (dataKeySet) {
     console.log(`\n📡 부산관광공사 유니크베뉴 수집 중...`);
     const items = await fetchOdcloud('15156491', 'uddi:cf14a586-03cb-4672-a766-9e4ee46db1e0');
-    items.forEach(p => allBenefits.push(convertBTOVenue(p, idCounter++)));
-    console.log(`  부산관광공사 유니크베뉴: ${items.length}개 변환됨`);
+    if (items.length > 0) allBenefits.push(convertBTOVenueAgg(items, idCounter++));
+    console.log(`  부산관광공사 유니크베뉴: ${items.length}건 → 1개로 통합`);
   }
 
   const outputPath = `scripts/output/${today}.json`;
